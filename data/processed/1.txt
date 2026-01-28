@@ -1,0 +1,808 @@
+[0.00s -> 7.00s]  Thầy xin tựa ý thiệu thế là Tũ và hôm nay tầy xử đồng hoàng cùng với con chăm bọc lần này
+[7.00s -> 12.00s]  Vậy thì trước khi chúng ta đi vào bọc chính thì thềm với con cùng có thể làm quanh nhau một chút được không nhỉ?
+[12.00s -> 17.00s]  Chưa thể hỏi là quê vừa mới đi học về đúng không?
+[17.00s -> 20.00s]  Dạ, không, con đây ở nhà
+[20.00s -> 22.00s]  À, ok, được rồi
+[22.00s -> 26.00s]  Vậy thì cho thể hỏi là năm nay quay học lớp mấy nhỉ?
+[26.00s -> 28.00s]  Dạ, năm nay con học lớp 7
+[28.00s -> 30.00s]  À, lớp 7 đúng không nhỉ?
+[30.00s -> 36.00s]  Thế thì cho thể hỏi là sau 1 năm con học ở trường cấp 2 thì quê cảm nhận được là tiếng anh cấp 2 có gì khó cân không?
+[36.00s -> 38.00s]  Có cái gì khó cân được với con không?
+[38.00s -> 41.00s]  Dạ, cũng không khó mấy
+[41.00s -> 48.00s]  Dạ, ok, xong rồi cấp 1 là cũng không quá nhiều khác biệt đúng không?
+[48.00s -> 52.00s]  Vậy thì năm lớp 7 này thì con đã được học tới anh chưa?
+[52.00s -> 54.00s]  Dạ, rồi
+[54.00s -> 58.00s]  Vậy thì con biết là quê có thể có khó cân gì không?
+[58.00s -> 60.00s]  Vậy là con thấy có điều gì mới mẻ không?
+[60.00s -> 62.00s]  Dạ
+[62.00s -> 64.00s]  Ok, được rồi
+[64.00s -> 68.00s]  Chắc là cũng mới qua 1 buổi học đầu tiên nên mình cũng chưa thấy có nhiều điều mới mẻ được không nhỉ?
+[68.00s -> 72.00s]  Dạ, hôm nay thì chúng ta sẽ có 1 cái buổi học học lớp nói
+[72.00s -> 77.00s]  Cho thể hỏi là quê có hay luyện nói tiếng anh không?
+[77.00s -> 81.00s]  Dạ, lúc trước có mà
+[82.00s -> 86.00s]  Cho thể hỏi là lúc trước là con luyện nói tiếng anh như thế nào nhỉ?
+[86.00s -> 88.00s]  Có thể chia sẻ thế thầy được không?
+[88.00s -> 93.00s]  Có thể nói tiếng anh như người phía bên
+[93.00s -> 96.00s]  Và con, đấy là giáo viên của con đúng không?
+[96.00s -> 98.00s]  Giáo viên trước kia của con đúng không?
+[98.00s -> 100.00s]  Vậy là
+[100.00s -> 104.00s]  Thầy thì thầy không có nhiều người bạn
+[104.00s -> 108.00s]  Thầy không có người bạn nào là người phía phía phía, nhưng mà thầy có người bạn là người nước khác
+[108.00s -> 114.00s]  Và thầy cũng khá la toplo hôm nay dọng about Philippines.
+[114.00s -> 116.00s]  Hôm nay thì chúng ta sẽ có 1 cái buổi luyện nói
+[122.00s -> 128.00s]  Nh聞 cư hỏi nha hôm nay của thầy, thì nó không quá là khó về mặt tử vựng lenne cầu chụng hierarchy
+[128.00s -> 131.00s]  Và thầy mong là con có thể hiện được hết những khả năng của mình
+[131.00s -> 133.00s]  Thì thế, thấy có một vài eff.
+[133.00s -> 133.96s]  Histori accounts
+[133.96s -> 135.96s]  Chuyển sang cái bộ hợp chính nhé.
+[135.96s -> 141.96s]  Đầu tiên, nếu nếu mà quê không hiểu bất cứ từ vững hay là bất cứ câu hỏi nào mà thấy ra thì con có thể nói với thầy.
+[141.96s -> 145.96s]  Thầy giải đáp những cái thám mắc liên quan đến những phần nào mà con không biết.
+[145.96s -> 149.96s]  Dù như từ vững hay là câu hỏi mà không hiểu thì con có thể nói với thầy nhé.
+[149.96s -> 152.96s]  Thứ 2 là nếu mà con hiểu câu hỏi có thể nghĩa là gì.
+[152.96s -> 157.96s]  Nhưng mà con chưa thể trả lời câu hỏi có thể bằng tiếng Anh đường thì con có thể trả lời câu hỏi có thể bằng tiếng Việt.
+[157.96s -> 162.96s]  Sau đấy thì thầy sẽ hỗ trợ con trong việc giết cái câu trả lời đó từ tiếng người sinh đằng Anh.
+[163.96s -> 165.96s]  Chắc là con nắm được rồi đúng không?
+[165.96s -> 167.96s]  Được rồi.
+[167.96s -> 169.96s]  Không biết bây giờ thì quê đã sẵn sàng chưa?
+[169.96s -> 171.96s]  Được rồi.
+[171.96s -> 174.96s]  Cái buổi test này của chúng ta sẽ không dự ra quá lâu đâu.
+[174.96s -> 178.96s]  Chỉ sẽ ra trong khoảng từ 20-25 phút sắp tới mà thôi.
+[178.96s -> 180.96s]  Cho nên là chúng ta chỉ cần cố gắng trong về tháng nay thôi.
+[180.96s -> 182.96s]  Sau đó thì thầy sẽ nhận xét con.
+[182.96s -> 185.96s]  Và chúng ta sẽ cùng đi đến những phương pháp mà thầy quan hệ cho con.
+[185.96s -> 188.96s]  Để con có thể cải thiện thêm được cái phần tiếng Anh của mình.
+[188.96s -> 193.96s]  Bây giờ, tôi sẽ hỏi anh một câu hỏi của anh.
+[193.96s -> 196.96s]  Hãy nói tôi, cái câu hỏi anh?
+[196.96s -> 198.96s]  Cái câu hỏi anh là...
+[198.96s -> 200.96s]  Cái câu hỏi anh là...
+[200.96s -> 201.96s]  Được rồi.
+[201.96s -> 203.96s]  Cái câu hỏi anh là...
+[203.96s -> 206.96s]  Tôi là...
+[206.96s -> 208.96s]  Tôi là...
+[208.96s -> 210.96s]  Tôi là...
+[210.96s -> 212.96s]  Được rồi, tôi là con 12 tuổi đúng không?
+[212.96s -> 214.96s]  Cái câu hỏi tôi là...
+[214.96s -> 216.96s]  Cái câu hỏi anh là...
+[217.96s -> 220.96s]  Tôi học ở Võ Thị Sáu School.
+[220.96s -> 222.96s]  Ồ, ok.
+[222.96s -> 224.96s]  Đấy, có phải trường cấp 2 được không nhỉ?
+[226.96s -> 227.96s]  Dạ.
+[227.96s -> 229.96s]  Đấy, có phải trường cấp 2 được không nhỉ?
+[229.96s -> 230.96s]  Đúng rồi.
+[230.96s -> 231.96s]  Ồ, ok.
+[231.96s -> 233.96s]  Có có biết từ bựng trường cấp 2 cho thầy anh là từ nào không?
+[233.96s -> 234.96s]  Dạ.
+[234.96s -> 237.96s]  Cái câu hỏi anh là...
+[237.96s -> 239.96s]  Cái câu hỏi tôi là...
+[239.96s -> 240.96s]  Dạ, ok.
+[240.96s -> 241.96s]  Được rồi.
+[241.96s -> 243.96s]  Thầy thấy là con đã rất là cố gắng nhớt lại đúng không?
+[243.96s -> 246.96s]  Có vẻ là từ vụng này là con được giới thiệu lâu rồi đúng không?
+[246.96s -> 247.96s]  Được rồi.
+[247.96s -> 249.96s]  Ok, được rồi.
+[249.96s -> 252.96s]  Thầy sẽ an ghi lại cho con, để con có thể hiểu lại từ vụng này nhé.
+[252.96s -> 255.96s]  Từ vụng này của chúng ta là chính là từ Secondary School.
+[255.96s -> 256.96s]  Ok.
+[256.96s -> 259.96s]  Thầy chính là cái từ vụng và con đã được nhìn thấy rồi đúng không?
+[259.96s -> 261.96s]  Ngoài ra thì hôm nay thầy muốn cho con thêm 1 từ bựng ướt.
+[261.96s -> 264.96s]  Mà có lẽ là con sẽ không nhìn thấy quá là nhiều,
+[264.96s -> 266.96s]  nhưng mà nó cũng có nghĩa là từ trường cấp 2.
+[266.96s -> 270.96s]  Từ vụng này thì nếu mà con có làm cái bài kiểm tra về phần đọc ấy,
+[270.96s -> 273.96s]  những cái đọc của cái đoạn văn thì có thể là con sẽ nhìn thấy.
+[273.96s -> 276.96s]  Nhưng mà thầy muốn cho con, để con có thể sẽ không bị bựng ướt.
+[276.96s -> 278.96s]  Nhưng mà mình chẳng may là mình có gặp phải đó.
+[278.96s -> 279.96s]  Ok.
+[279.96s -> 280.96s]  Đó chính là từ Middle School.
+[280.96s -> 281.96s]  Ok.
+[281.96s -> 282.96s]  Middle School.
+[282.96s -> 287.96s]  Nếu mà con có học từ Middle rồi thì chúng ta có thể hiểu từ Middle có nghĩa là ở giữa.
+[287.96s -> 288.96s]  Ở chính giữa đó.
+[288.96s -> 289.96s]  Ok.
+[289.96s -> 292.96s]  Vậy mình có thể hiểu là có 3 cấp đúng không nhỉ?
+[292.96s -> 296.96s]  Trường cấp 1, cấp 2, cấp 3, phải thì trường cấp 2 chính là trường nằm ở giữa đúng không?
+[296.96s -> 298.96s]  Đó thì mình có thể hiểu đây là cấp ở giữa đó.
+[298.96s -> 299.96s]  Ok.
+[299.96s -> 300.96s]  Dạ.
+[300.96s -> 303.96s]  Chúng ta cùng chuyển sang câu hỏi chính trong bọc năm nay nhé.
+[303.96s -> 305.96s]  So let's talk about hobbies.
+[305.96s -> 309.96s]  Tell me, what are your hobbies?
+[309.96s -> 314.96s]  My hobby is singing or songs and dance.
+[314.96s -> 315.96s]  Ok.
+[315.96s -> 320.96s]  So để con thấy con là một người khá là theo thường nghệ thuật đúng không nhỉ?
+[320.96s -> 322.96s]  So tell me.
+[322.96s -> 324.96s]  Let's talk about music.
+[324.96s -> 326.96s]  You said that you like singing.
+[326.96s -> 327.96s]  So tell me.
+[327.96s -> 332.96s]  What kind of music do you like?
+[337.96s -> 339.96s]  Thầy có thể giữ cho con các câu hỏi này nữa không?
+[339.96s -> 340.96s]  Ok.
+[340.96s -> 344.96s]  Thầy nghĩ là trong câu này chỉ có 1 cụm mà con năng không hiểu thôi.
+[344.96s -> 346.96s]  Đó chính là cụm kind of music trong câu hỏi.
+[346.96s -> 348.96s]  What is your kind of music của thầy?
+[348.96s -> 349.96s]  I'm sorry.
+[349.96s -> 352.96s]  What is your favorite kind of music?
+[352.96s -> 356.96s]  Ở đây thì cũng từ kind of music này của thầy có nghĩa là thẻ loại hàng.
+[356.96s -> 362.96s]  Ví dụ như là thẻ loại nhạc trẻ này, nhạc balát này, nhạc rap này,
+[362.96s -> 365.96s]  hay là nhạc trữ tình, nhạc dân ca, cái kiểu thế.
+[365.96s -> 369.96s]  Nhưng mà đây không phải là cái kiểu là loại nhạc Việt Nam,
+[369.96s -> 370.96s]  mở nhạc nước ngoài đó nhé không không.
+[370.96s -> 372.96s]  Đấy là nhạc theo quốc gia thôi.
+[372.96s -> 376.96s]  Chúng ta sẽ không bàn đến nó trong cái kind of music này.
+[376.96s -> 379.96s]  Chúng ta chỉ nhắc đến những cái thẻ loại mà thấy vừa mới nhắc ở đoạn đầu thôi.
+[379.96s -> 380.96s]  Ok.
+[380.96s -> 381.96s]  Chắc là con hiểu rồi đúng không?
+[381.96s -> 382.96s]  Sao?
+[382.96s -> 383.96s]  Cảm ơn hỏi lại làm được nhé.
+[383.96s -> 388.96s]  What is your favorite type of music?
+[388.96s -> 392.96s]  I like to choose the music.
+[392.96s -> 393.96s]  Ok.
+[393.96s -> 398.96s]  So tell me, who is your favorite singer?
+[398.96s -> 403.96s]  My favorite singer is Hieu Thương Hài.
+[403.96s -> 406.96s]  Ok.
+[406.96s -> 409.96s]  Thực sự ấy thấy, Thầy cũng thấy con có một chút,
+[409.96s -> 412.96s]  cái con mà có con có một chút là hà giống đấy.
+[412.96s -> 413.96s]  Ok.
+[413.96s -> 418.96s]  So tell me, why do you like him?
+[418.96s -> 428.96s]  Because he is very beautiful.
+[428.96s -> 430.96s]  Anh ấy rất là đẹp trai đúng không nhỉ?
+[430.96s -> 432.96s]  Còn gì nữa không?
+[432.96s -> 438.96s]  And he sings very good.
+[438.96s -> 440.96s]  Ok.
+[440.96s -> 442.96s]  Cảm ơn hát cho Thầy được không nhỉ?
+[442.96s -> 447.96s]  So let's talk about study.
+[447.96s -> 452.96s]  Tell me, what subject do you like?
+[452.96s -> 455.96s]  I like English.
+[455.96s -> 456.96s]  Ok.
+[456.96s -> 457.96s]  You like English.
+[457.96s -> 461.96s]  So tell me, why do you like English?
+[461.96s -> 465.96s]  Because I think it's very easy.
+[465.96s -> 467.96s]  Interesting.
+[467.96s -> 468.96s]  Ok.
+[468.96s -> 471.96s]  It's very easy and interesting.
+[471.96s -> 474.96s]  Trong câu hỏi này, Thầy sẽ muốn con nói sơ một chút nữa.
+[474.96s -> 475.96s]  Ok.
+[475.96s -> 478.96s]  Cho thầy hỏi là thầy dễ gọi ý một chút nữa hát.
+[478.96s -> 480.96s]  Chúng ta sẽ nói bây giờ bằng tiếng Việt một chút nha.
+[480.96s -> 483.96s]  Sao Thầy hỏi quay là điểm tiếng Anh và con có cao không?
+[483.96s -> 484.96s]  Dạ.
+[484.96s -> 488.96s]  Để biết ăn con thì nơi số là 900 mấy.
+[488.96s -> 489.96s]  Họ là 800 mấy.
+[489.96s -> 490.96s]  Ok.
+[490.96s -> 495.96s]  Thế thì đối với quay thì điểm như thế so với cá môn khách của con thì có gọi là cao hơn không nhỉ?
+[495.96s -> 497.96s]  Hay là mức chút?
+[497.96s -> 500.96s]  Dạ, cho mà cao hơn một số môn.
+[500.96s -> 501.96s]  Ok, được rồi.
+[501.96s -> 507.96s]  Vậy thì mình cũng cái việc nó dễ thì chắc là nó cũng thể hiện thông qua cái điểm sơ con rất là cao rồi đúng không nhỉ?
+[507.96s -> 508.96s]  Ok.
+[508.96s -> 510.96s]  Thế thì thêm một cái nữa nhé.
+[510.96s -> 513.96s]  Thế thì cho thầy hỏi là quay có thích học vào giáo viên tiếng Anh và con không?
+[513.96s -> 518.96s]  Dạ, có một xíu nhiên thì con rất là hết nhưng mà có một xíu nhiên thì dạy.
+[519.96s -> 520.96s]  Ok.
+[520.96s -> 521.96s]  Được rồi.
+[521.96s -> 523.96s]  Thế thì giáo viên hiện tại thì sao?
+[523.96s -> 524.96s]  Giáo viên hiện tại.
+[524.96s -> 525.96s]  Tất nhiên là không phải thầy ra nhé.
+[525.96s -> 528.96s]  Mà giáo viên là trên trường cất hai của con đó.
+[528.96s -> 529.96s]  Dạ.
+[529.96s -> 533.96s]  Nhưng vì hình tại của con là con hiểu phó, con là con có phá quốc kìa.
+[533.96s -> 535.96s]  Ok, được rồi.
+[535.96s -> 542.96s]  Như vậy là cái việc mình thích giáo viên của mình cũng là một trong những cái động lực giúp cho mình thích cái môn tiếng Anh hơn được không nhỉ?
+[542.96s -> 543.96s]  Ok.
+[543.96s -> 551.96s]  Bây giờ thì mình có thêm hai câu nữa để mình có thể nói thêm vào cái câu trả lời của mình, làm cho câu trả lời của mình nó nhiều hơn và nó đầy đủ hơn.
+[551.96s -> 556.96s]  Đó là cái cụt đầu tiên là cụt tôi Ấy ỉm môn tiếng Anh của tôi rất cao, đúng không nhỉ?
+[556.96s -> 559.96s]  Và cụt thứ hai là tôi thích giáo viên dạy tiếng Anh của tôi.
+[559.96s -> 561.96s]  Thầy sẽ hỗ trợ con trong cái câu này nhé.
+[561.96s -> 564.96s]  Nhưng khuya có thể nói được hai câu này không?
+[564.96s -> 567.96s]  Ờ, kinh.
+[567.96s -> 571.96s]  Con đầu tiên thì con không biết con nói được không, nhưng mà con thứ hai con nói được.
+[571.96s -> 573.96s]  Ok.
+[573.96s -> 577.96s]  Tôi thích giáo viên tiếng Anh của tôi có thể nói như thế nào nhỉ?
+[577.96s -> 583.96s]  I love my English teacher.
+[583.96s -> 584.96s]  Ok.
+[584.96s -> 586.96s]  I love my English teacher.
+[586.96s -> 593.96s]  Với câu đầu tiên thì thể nghĩ là cái từ điểm số rất là một từ nó có thể làm một chút kém sự khó khăn được với con đúng không nhỉ?
+[593.96s -> 595.96s]  Không biết là con có biết từ điểm số.
+[595.96s -> 604.96s]  Nếu con không biết thì trong cái bài kiểm tra của con, có sự đẩy ý thì mình sẽ có thể nhìn thấy cái từ điểm số trong một vài cái chỗ đấy.
+[604.96s -> 609.96s]  Ở đây thì thầy cho con một vài từ vận có nghĩa là điểm số nhé, mà thầy tin lại những từ vận này có đã nhìn thấy rồi.
+[609.96s -> 612.96s]  Từ vận đầu tiên, nó chính là từ point.
+[612.96s -> 613.96s]  Ok.
+[613.96s -> 615.96s]  Con nhìn thấy từ vận này quá à chưa?
+[615.96s -> 617.96s]  Chua.
+[617.96s -> 619.96s]  Ok, really.
+[619.96s -> 620.96s]  Được rồi.
+[620.96s -> 622.96s]  Chưa thể hỏi con vai chơi game không?
+[623.96s -> 624.96s]  Dạ.
+[624.96s -> 626.96s]  Cũng thích nhưng mà không có chơi nhiều.
+[626.96s -> 627.96s]  Ok.
+[627.96s -> 634.96s]  Nhưng mà con có chơi những cái chơi tính điểm thì cái từ point này cũng sẽ là một từ có thể xuất hiện trong những cái chơi tính điểm đó.
+[634.96s -> 635.96s]  Ok.
+[635.96s -> 637.96s]  Từ tiếp theo là chỉ là từ mark.
+[637.96s -> 638.96s]  Ok.
+[638.96s -> 640.96s]  Thưa này thì có nhìn thấy vơ chứ nhỉ?
+[640.96s -> 643.96s]  Thưa này thì nghĩ là cũng có vẻ là chưa đúng không?
+[643.96s -> 645.96s]  Ok.
+[645.96s -> 646.96s]  Được rồi.
+[646.96s -> 650.96s]  Hai từ vận này thì nó sẽ xuất hiện nhiều hơn trong cái bài kiểm tra của con.
+[650.96s -> 653.96s]  Đặc biệt là cái từ point là một từ sự phổ biến nhất có thể.
+[653.96s -> 654.96s]  Ok.
+[654.96s -> 659.96s]  Một từ thứ ba mà chúng ta có thấy một dưới kiện cho con cho bọn này là chính là từ score.
+[659.96s -> 660.96s]  Ok.
+[660.96s -> 662.96s]  Từ vận này thì không biết là quen nhìn thấy vơ chứ nhỉ?
+[662.96s -> 663.96s]  Được rồi.
+[663.96s -> 664.96s]  Ok.
+[664.96s -> 665.96s]  Được rồi.
+[665.96s -> 669.96s]  Từ score cũng sẽ được nhìn thấy trong những cái chò chơi.
+[669.96s -> 672.96s]  Hay là kể cả trong việc học tập thì cũng có thể nhìn thấy nữa.
+[672.96s -> 673.96s]  Ok.
+[673.96s -> 674.96s]  Được rồi.
+[674.96s -> 676.96s]  Con có thể dùng một trong ba từ vận này để nói với cái điểm sâu con.
+[676.96s -> 678.96s]  Và cả ba từ này đều là sang tử.
+[678.96s -> 679.96s]  Ok.
+[679.96s -> 681.96s]  Sợ vừa rồi con nói nói là gì nhỉ?
+[681.96s -> 683.96s]  Điểm tiền ngành của tôi rất cao đúng không nhỉ?
+[683.96s -> 685.96s]  Con có từ điểm sâu rồi.
+[685.96s -> 687.96s]  Cho thể hỏi là điểm tiền ngành.
+[687.96s -> 689.96s]  Mình sẽ nói như thế nào nhỉ?
+[692.96s -> 693.96s]  English point.
+[693.96s -> 694.96s]  Ok.
+[694.96s -> 695.96s]  Very good.
+[695.96s -> 696.96s]  English point.
+[696.96s -> 698.96s]  Chúng ta đang có cái từ cao.
+[698.96s -> 701.96s]  Con có biết từ cao ở đây chúng ta xuống từ nào không?
+[701.96s -> 703.96s]  Cao hay là thò.
+[703.96s -> 704.96s]  Ok.
+[704.96s -> 705.96s]  Từ thò.
+[705.96s -> 707.96s]  Ngoài từ thò là con từ nào được không?
+[712.96s -> 713.96s]  Con có từ nữa.
+[713.96s -> 714.96s]  Ok.
+[714.96s -> 716.96s]  Thế nghĩ là từ này chắc là con vụ đã lập rồi.
+[716.96s -> 717.96s]  Và chỉ là từ 2.
+[717.96s -> 718.96s]  Ok.
+[718.96s -> 719.96s]  Con nhìn thấy từ này chưa?
+[720.96s -> 722.96s]  Ai đã có rồi.
+[722.96s -> 723.96s]  Ok.
+[723.96s -> 724.96s]  Được rồi.
+[724.96s -> 725.96s]  Từ hỏi và từ thò.
+[725.96s -> 728.96s]  Anh nhờ mà tại sao lại muốn con nói với thấy cái từ 2.
+[728.96s -> 730.96s]  Chứ thấy rằng không bỏ con sụp với từ thò.
+[730.96s -> 734.96s]  Làm bởi vì nếu như mà khuê chắc là khuê cũng đã biết rồi.
+[734.96s -> 737.96s]  Đó là từ thò dùng để miêu tả cái chiều cao của con người hay là con vật.
+[737.96s -> 741.96s]  Chứ nó không để miêu tả cái điểm số cao.
+[741.96s -> 744.96s]  Con từ 2 nó sẽ miêu tả những cái trường hợp còn lại.
+[744.96s -> 746.96s]  Những cái trường hợp mà từ thò không miêu tả.
+[746.96s -> 749.96s]  Bí dụ nó sẽ miêu tả những cái ngọn núi.
+[749.96s -> 752.96s]  Cái thứ rất là cao lớn, nổ sộ.
+[752.96s -> 756.96s]  Hay là dùng để miêu tả những cái tòa nhà cao tầng hay là những cái đồ vật.
+[756.96s -> 757.96s]  Nó cao tầng.
+[757.96s -> 758.96s]  Ok.
+[758.96s -> 759.96s]  Kiểu tình khẩu thế.
+[759.96s -> 761.96s]  Thứ 2 là từ 2 này này.
+[761.96s -> 763.96s]  Con để miêu tả những cái số liệu nữa.
+[763.96s -> 768.96s]  Nếu như mà con có không biết là con đơn hợp những cái biểu đồ trong địa lý chứ nhỉ.
+[768.96s -> 774.96s]  Thì nếu như mà mua tả những cái số liệu cao thấp trong biểu đồ trong cái liệu lý ấy.
+[774.96s -> 776.96s]  Thì sẽ dựa được cái từ 2 này.
+[776.96s -> 777.96s]  Chứ không dựa được thò.
+[777.96s -> 778.96s]  Ok.
+[778.96s -> 779.96s]  Nó.
+[779.96s -> 780.96s]  Thứ như thế.
+[780.96s -> 784.96s]  Từ 2 này dùng để miêu tả những cái số liệu và những cái điểm số trong cái trường hợp này cũng thuộc về cái số liệu đó.
+[784.96s -> 786.96s]  Đó lý do tại sao mà chúng ta dựa được cái từ 2.
+[786.96s -> 788.96s]  Được rồi con đã có từ cao rồi.
+[788.96s -> 790.96s]  Có từ điểm tiếng anh rồi.
+[790.96s -> 795.96s]  Cho thể hỏi là mình dịch cái cụ điểm tiếng anh của tốt cao như thế nào nhỉ.
+[795.96s -> 799.96s]  My English is very high.
+[799.96s -> 800.96s]  Ok.
+[800.96s -> 801.96s]  Được rồi.
+[801.96s -> 804.96s]  Chúng ta cùng chạy sang cái câu hỏi tiếp theo nhé.
+[804.96s -> 806.96s]  So tell me.
+[806.96s -> 811.96s]  Is there any subjects that you don't like?
+[811.96s -> 815.96s]  I don't like much.
+[815.96s -> 816.96s]  Ok.
+[816.96s -> 817.96s]  You don't like much.
+[817.96s -> 818.96s]  So tell me why.
+[818.96s -> 819.96s]  Why?
+[819.96s -> 824.96s]  This guy I think is very hard and difficult.
+[824.96s -> 825.96s]  Ok.
+[825.96s -> 826.96s]  It's very hard.
+[826.96s -> 832.96s]  Chúng ta vẫn tiếp tục với những cái gọi ý của thầy trong cái phần này nhé.
+[832.96s -> 835.96s]  Thế đấy điểm toàn con so với các môn cách thì theo con có cao hơn không?
+[835.96s -> 836.96s]  Dạ.
+[836.96s -> 839.96s]  Cũng không cao hơn nhưng mà nó cũng ở bất.
+[839.96s -> 841.96s]  Ok được rồi.
+[841.96s -> 843.96s]  Tức là nó cũng ở bất cảm cảm đúng không?
+[843.96s -> 844.96s]  Sao?
+[844.96s -> 846.96s]  Thế thì nói chuyện về giáo viên đi.
+[846.96s -> 848.96s]  Giáo viên thì sao?
+[848.96s -> 853.96s]  Nếu mình thì con hay là ok.
+[853.96s -> 854.96s]  Ok.
+[854.96s -> 858.96s]  Như vậy là chắc là sẽ không dùng được hai cái này để mô tả cái việc mình không thích rồi.
+[858.96s -> 859.96s]  Được rồi.
+[859.96s -> 862.96s]  Cái này chúng ta sẽ cùng nhau nói về phần này xong nhé.
+[862.96s -> 866.96s]  Ờ ở đây thì tại sao mà thật em muốn quay có thể nói được nhiều hơn nữa?
+[866.96s -> 868.96s]  Nên lại bởi vì chắc là con cũng biết rồi.
+[868.96s -> 872.96s]  Đó là cái việc mà chúng ta nói được càng nhiều thì nó đã thể hiện được là cái
+[872.96s -> 874.96s]  đánh của mình càng tốt.
+[874.96s -> 875.96s]  Ok.
+[875.96s -> 878.96s]  Cho nên đó lý do tại sao mà thật em muốn con có thể nói được nhiều hơn.
+[878.96s -> 879.96s]  Có thể là như thế.
+[879.96s -> 880.96s]  Ok.
+[880.96s -> 882.96s]  Rồi chúng ta cùng chuyển ra những cái chủ đại tiếp theo nhé.
+[882.96s -> 885.96s]  Let's talk about movie.
+[885.96s -> 887.96s]  Do you like watching movies?
+[887.96s -> 889.96s]  Yes.
+[889.96s -> 895.96s]  So tell me what kind of movie do you like?
+[895.96s -> 903.96s]  My kindest movie is the whole world movie.
+[903.96s -> 905.96s]  Ok.
+[905.96s -> 908.96s]  Không biết là quay quá hay đi xem phim không?
+[908.96s -> 910.96s]  Có.
+[910.96s -> 912.96s]  Ok.
+[912.96s -> 913.96s]  Được rồi.
+[913.96s -> 918.96s]  Vào vài ngày tới thì Thầy sẽ đi xem bộ phim rất là kinh dị trong thời gian ở đây.
+[918.96s -> 922.96s]  Nếu như mà con có xem thì con sẽ biết là có một bộ phim rất là nổi tiếng.
+[922.96s -> 924.96s]  Thầy là The One High không?
+[924.96s -> 926.96s]  Yes.
+[926.96s -> 928.96s]  Ok.
+[928.96s -> 930.96s]  Không biết là con đã đi xem chưa?
+[930.96s -> 931.96s]  Dạ.
+[931.96s -> 932.96s]  Con chỉ mất xem phù mợp thôi.
+[932.96s -> 936.96s]  Vì ở dưới chỗ con ở không có gặp chú phim nữa là con thôi để chú khác cho con.
+[936.96s -> 937.96s]  Ok.
+[937.96s -> 938.96s]  Được rồi.
+[938.96s -> 943.96s]  Thầy nghĩ là có lẽ là nên đợi những cái khi mà những người web lậu đăng lên thì mình phải có cơ được xem đúng không?
+[943.96s -> 944.96s]  Ok.
+[944.96s -> 946.96s]  Đừng đợi.
+[946.96s -> 950.96s]  Thầy xem cái phim này là bởi vì mấy ngày tới sẽ là sinh nhật của Thầy.
+[950.96s -> 952.96s]  Thầy đã chấp nhận được không? Ok.
+[952.96s -> 954.96s]  Thầy.
+[954.96s -> 955.96s]  Ok.
+[955.96s -> 958.96s]  Thầy nói tôi, cái phim của anh là gì?
+[958.96s -> 962.96s]  Thầy của tôi là...
+[962.96s -> 966.96s]  The Note.
+[966.96s -> 968.96s]  Ok.
+[968.96s -> 971.96s]  Thầy nói tôi, trong phim này,
+[971.96s -> 975.96s]  thầy của anh là ai?
+[976.96s -> 981.96s]  My very character.
+[981.96s -> 984.96s]  Thầy ơi, con có hỏi là character là có phải là nhân vật không thầy?
+[984.96s -> 986.96s]  Dạ, dạ.
+[986.96s -> 994.96s]  Nhưng mà con biết true character, con hiểu nhưng mà con muốn nói gì cái nhân dật mà con không có biết nghĩa của tụi, nhân dật.
+[994.96s -> 998.96s]  Con có thể có thể kể nhân vật này là ai con?
+[998.96s -> 1000.96s]  Và cái cô nũ tư đi hay là ai?
+[1000.96s -> 1002.96s]  Dạ, là cái cô nũ tư.
+[1002.96s -> 1004.96s]  Con không biết tụi nũ tư.
+[1004.96s -> 1006.96s]  Dạ, là tụi nũ tư.
+[1006.96s -> 1008.96s]  Dạ, là tụi nũ tư.
+[1008.96s -> 1010.96s]  Dạ, là tụi nũ tư.
+[1010.96s -> 1012.96s]  Dạ, là tụi nũ tư.
+[1012.96s -> 1014.96s]  Ok.
+[1014.96s -> 1022.96s]  Thầy cũng khá lâu rồi, không động vào cái chủ đề này nhưng mà nếu mà Thầy không nhằm thì tự press có nghĩa là mộc sư
+[1022.96s -> 1025.96s]  là người ông đi cùng với cô đó.
+[1025.96s -> 1026.96s]  Ok.
+[1026.96s -> 1029.96s]  Còn cái tự đè là gì nhỏ á quỷ?
+[1029.96s -> 1031.96s]  Masuo đúng không nhỏ?
+[1031.96s -> 1036.40s]  Thực ra, đấy là cách dịch của chúng ta sang tiếng Việt mà thôi.
+[1036.40s -> 1043.52s]  Còn con có thể thấy trong cái câu này, trong cái từ Zonan thì không hề có cái từ Acquy được không nhỉ?
+[1043.52s -> 1045.90s]  Không hề có từ Devil hay là Evil đúng không?
+[1045.90s -> 1053.00s]  Cho nên mình có thể hiểu là đây là cái cách dịch của người làm phim khi mà họ chuyển thẻ sang tiếng Việt mà như thế.
+[1053.00s -> 1055.02s]  Ok, được rồi.
+[1055.02s -> 1061.52s]  Thầy có một lời khuyên để con có thể, mình có thể hiểu rõ hơn về cái việc dịch từ tiếng Jackson Anh.
+[1061.52s -> 1067.18s]  Đấy là trong khi mà chúng ta dịch từ tiếng Jackson Anh thì có thể là con sẽ dịch từ tiếng Anh sang tiếng Việt,
+[1067.18s -> 1073.24s]  thì có thể là Khoê sẽ nhìn thấy một vài từ không có trong cái bản dịch tiếng Việt hay là không có trong cái bản dịch tiếng Anh.
+[1073.24s -> 1081.64s]  Nhưng mà chúng ta có thể hiểu là trong cái bối cảnh ụ thể thì chúng ta sẽ cần phải dịch theo cái bối cảnh thay vì là dịch theo tường từ mùa.
+[1081.64s -> 1087.60s]  Ok, trong trợ này thì chúng có thể thấy là cái bộ phim này đang nói đến con Acquy đúng không?
+[1087.68s -> 1092.96s]  Vlog được không nhỉ? Cho nên là chúng ta sẽ cần phải nói là Acquy master chứ, để nói là master được, ok?
+[1092.96s -> 1094.80s]  Đấy, được rồi.
+[1094.80s -> 1099.68s]  So, tell me why do you like the nun?
+[1099.68s -> 1104.24s]  Ý tầy là cái cấn nhân vật đó đấy chứ không phải bộ phim rồi nha.
+[1104.24s -> 1114.16s]  It's because I think she's the kind and beautiful.
+[1114.16s -> 1118.32s]  Ok, is she sure? Cô ấy có mạnh mẽ không?
+[1118.32s -> 1124.32s]  Cô ấy cũng rất là brave, rất là dũng cảm đúng không nhỉ?
+[1124.32s -> 1128.72s]  Cái, một từ nữa thì là từ dũng cảm, ok?
+[1128.72s -> 1134.72s]  Hôm nay thì cũng muốn cho con thêm một từ nữa. Từ này thì có lẽ là con sẽ nhìn thấy ít hơn.
+[1134.72s -> 1143.52s]  Nhưng mà nếu như là con có xem phim và bật vụ đài bằng tiếng Anh, đặc biệt là trong cái bộ phim nó mà tính kiểu như thế này thì chúng ta sẽ thấy rất nhiều cái từ này.
+[1143.52s -> 1148.80s]  Chính là từ sacrifice, sacrifice, ok?
+[1148.80s -> 1158.48s]  Từ vợ này có nghĩa là hy sinh, hy sinh có cái tính, có cái lòng luôn luôn, rất là hy sinh thì người khác đó, ok?
+[1158.48s -> 1160.24s]  Thì chúng ta sử dụng cái từ sacrifice này.
+[1160.24s -> 1164.96s]  Đây là một thứ rất là hay nếu như là con có xem cái bộ phim liên quan về cái vấn đề này, ok?
+[1164.96s -> 1166.16s]  Được rồi.
+[1166.16s -> 1170.88s]  Thành nhiên là chúng ta chuyển sang cái chủ đài cuối cùng trước khi chúng ta đến với cái à phần niềm sét, ok?
+[1170.96s -> 1174.48s]  Sao? Nhưng mà trước đấy thì chưa thể hỏi là con còn muốn thể hỏi về chủ đài nào không?
+[1174.48s -> 1176.64s]  Quê có tự tin về chủ đài nào không?
+[1182.40s -> 1185.12s]  Về chủ đài dưới vật đúng không thầy? Như con thích dưới vật?
+[1187.12s -> 1188.72s]  Ok, ok, được rồi.
+[1188.72s -> 1190.72s]  Nhân vật đúng nhỉ?
+[1193.04s -> 1197.28s]  Ok, nhưng mà thầy con đã không muốn hỏi về cái gì của nhân vật?
+[1201.20s -> 1204.80s]  Ok, được rồi. Cái phần này có lẽ là hơi khó một chút đúng không?
+[1204.80s -> 1210.80s]  Chúng ta sẽ nói về cái phần này, nhưng mà có cơ hội thì chúng ta có thể đọc vào cái này trong những cái bò hải học chính cức tiếp theo nhé, ok?
+[1210.80s -> 1213.76s]  Sao? Được rồi, chúng ta cùng chuyển sang cái chủ đài cuối cùng nhé.
+[1213.76s -> 1217.60s]  Thành nhiên đây sẽ là một chủ đài nhẹ hôm một chút, là chúng ta chuyển đề con vật, ok?
+[1217.60s -> 1219.60s]  Sao? Let's talk about animals.
+[1219.60s -> 1223.84s]  Tell me, what animals do you like?
+[1223.84s -> 1225.84s]  I like dogs and cats.
+[1225.84s -> 1231.84s]  Ok, so tell me, do you have a dog or a cat in your house?
+[1241.84s -> 1245.84s]  Yes, so I have a dog.
+[1245.84s -> 1257.84s]  I have a dog, but the dog died.
+[1257.84s -> 1261.84s]  Ok, the dog was died, ok? I'm sorry about that.
+[1261.84s -> 1265.84s]  So tell me, why do you like dogs?
+[1265.84s -> 1273.84s]  Because I think dogs are very cute.
+[1273.84s -> 1275.84s]  Ok, dog is very cute.
+[1275.84s -> 1283.84s]  Ok, hôm nay, có lẽ hôm nay là con có thể thấy mình đang dùng hơi nhiều một chút cái từ cute đúng không nhỉ?
+[1283.84s -> 1285.84s]  Phần gạn xét thì phải cho con một vài từ nữa.
+[1285.84s -> 1291.84s]  Nó cũng có nghĩa giống như cái từ cute, nhưng mà nó sẽ có thể thay thế được để con có thể dùng được linh hoạt hơn nữa.
+[1291.84s -> 1295.84s]  Ok, so tell me, let's talk about cats.
+[1295.84s -> 1299.84s]  So do you wanna have a cat in the future?
+[1299.84s -> 1305.84s]  No, because my dad and mom don't like cats.
+[1305.84s -> 1309.84s]  Ok, so your parents don't like cats, ok?
+[1309.84s -> 1315.84s]  Bởi vì cái thời lượng của chú ca còn khá nhiều, cho nên tầy ra hỏi con thêm một chú để ngắn lợi nhé?
+[1315.84s -> 1317.84s]  So let's talk about books.
+[1317.84s -> 1319.84s]  Do you like reading books?
+[1319.84s -> 1323.84s]  Yes.
+[1323.84s -> 1327.84s]  Ok, so tell me, what kind of books do you like?
+[1327.84s -> 1335.84s]  I like children books.
+[1335.84s -> 1339.84s]  Ok, sách cho trẻ em đúng không nhỉ?
+[1339.84s -> 1343.84s]  Chúng ta gọi cái sách đấy là gọi là gì nhỉ? Con có nhớ không?
+[1343.84s -> 1347.84s]  Gọi là chuyện tranh đúng không nhỉ?
+[1347.84s -> 1355.84s]  Chúng ta thấy có một từ này, maybe con có thể đã học rồi.
+[1355.84s -> 1359.84s]  Chính là cục từ comic book.
+[1359.84s -> 1361.84s]  Chắc là con nhìn thấy rồi đúng không?
+[1361.84s -> 1363.84s]  Chính là chuyện tranh đó.
+[1363.84s -> 1367.84s]  Không, không phải từ story đâu nhé, từ story nó sẽ khác với từ comic book.
+[1367.84s -> 1371.84s]  Đây là bởi vì thứ nhất là từ story, nó có thể là một câu chuyện bằng lời nói này này.
+[1371.84s -> 1375.84s]  Có thể là một câu chuyện bằng giấy viết.
+[1375.84s -> 1379.84s]  Nhưng mà ra phần cái story thì nó không có chuyện tranh,
+[1379.84s -> 1381.84s]  nó không có tranh giống như cái comic book này.
+[1381.84s -> 1383.84s]  Ok, nữa.
+[1383.84s -> 1389.84s]  So tell me, what is your favorite comic book?
+[1389.84s -> 1393.84s]  My favorite comic book is the Doraemon.
+[1393.84s -> 1399.84s]  Ok, thế hồi 10 bạn thì chắc là cũng phải đến 8 bạn thích Doraemon này.
+[1399.84s -> 1401.84s]  Cũng 2 bạn có lại thích Conan thôi.
+[1401.84s -> 1409.84s]  Ok, so tell me, in Doraemon, who is your favorite character?
+[1409.84s -> 1413.84s]  My character in Doraemon is a Doraemon.
+[1413.84s -> 1417.84s]  Ok, so tell me why do you like Doraemon?
+[1417.84s -> 1425.84s]  Because I think Doraemon is very cute and strong.
+[1425.84s -> 1431.84s]  Ok, so that is the end of our test today.
+[1431.84s -> 1435.84s]  Đây là tất cả những lý giá trong buổi test này của chúng ta rồi.
+[1435.84s -> 1437.84s]  Bây giờ thì chúng ta cùng chuyển ra phần nhận xét nhé.
+[1437.84s -> 1441.84s]  Ok, à, phần nhận xét này thì thầy sẽ nhận xét cõ rượu trên 3, 9 giá.
+[1441.84s -> 1443.84s]  Ok, chào thầy một chút nhé.
+[1443.84s -> 1445.84s]  Thầy sẽ xem nình để chúng ta có thể theo dõi kí hơn.
+[1445.84s -> 1447.84s]  Ok.
+[1447.84s -> 1457.84s]  Nhưng mà trước khi chúng ta đến phần nhận xét thì cho thầy hỏi là quê cảm nhận,
+[1457.84s -> 1459.84s]  như thế nào với những câu hỏi của thầy nghe all night.
+[1459.84s -> 1461.84s]  Nó còn khói không?
+[1461.84s -> 1463.84s]  или nó có giúp đối con?
+[1463.84s -> 1465.84s]  Ổng có hỏi có hỏi ít and hope of the team.
+[1465.84s -> 1469.54s]  Thế thì thầy rất là mong là thầy có thể cho các thầy những cái tử vực mới nữa
+[1469.54s -> 1471.04s]  và có thể áp dụng được cho người phần nói
+[1471.04s -> 1473.64s]  để có thể nói được nhiều hơn nữa, ok?
+[1474.04s -> 1476.14s]  Rất rõ, chúng ta cùng chuyển ra cái phần nhạc xét nhé.
+[1476.54s -> 1478.54s]  Như thầy đó nói thì chúng ta sẽ chuyển ra
+[1478.84s -> 1482.14s]  chúng ta sẽ có 3 cái tiêu trí để thầy đánh giá cho cái phần nhạc xét này.
+[1482.44s -> 1484.04s]  Nhưng ở trước khi đấy thì thầy có một cái lời của nói
+[1484.04s -> 1484.84s]  đấy chính là
+[1485.34s -> 1488.24s]  ngày hôm nay thầy sẽ không chấm điểm cái bài test này của con
+[1488.34s -> 1490.84s]  và thầy sẽ chỉ đưa ra cái lời nhạc xét và đánh giá mà thôi.
+[1491.14s -> 1493.74s]  Thầy cũng sẽ gửi lại cái bài này giá chi tiết cho bên trường
+[1493.74s -> 1496.64s]  để bên trường gửi lại cho con đấy, nhưng mà con có như câu cần, ok?
+[1497.34s -> 1500.04s]  Được rồi, chúng ta sẽ cùng đến với cả cái tiêu trí đầu tiên
+[1500.04s -> 1503.04s]  để chỉ là tiêu trí phần phát âm của pronunciation, ok?
+[1503.84s -> 1506.04s]  Thầy có thể thấy phát âm của con
+[1506.04s -> 1507.84s]  con đã hình thành được một cái phát âm khá là ổn
+[1507.84s -> 1510.74s]  và con đã có nứa điệu cơ bản trong cái phần trả lời của mình
+[1511.04s -> 1513.04s]  và đấy là một cái phần mà thầy thầy rất là tốt.
+[1513.04s -> 1514.04s]  Đây là một cái
+[1514.04s -> 1514.64s]  thầy có thể hiểu
+[1514.64s -> 1515.54s]  đấy là một cái
+[1515.54s -> 1517.44s]  phần mà khó khó khó khá là ổn
+[1517.44s -> 1521.94s]  khi mà trước kia con đã có cái cơ hội được luyện tập phật nói với cả một người nước ngoài
+[1521.94s -> 1523.74s]  và thầy có thể cảm nhận được là
+[1523.74s -> 1527.24s]  cái giọc của con nó đang có thiên hướng
+[1527.24s -> 1530.04s]  đang có khá là nhiều tiền năng trong việc trả lời
+[1530.04s -> 1533.44s]  và có thể phát âm được theo cái giọc điệu của người bản xứ, ok?
+[1534.24s -> 1537.04s]  Theo như thầy được biết thì người Philippines
+[1537.74s -> 1544.14s]  sẽ có cái thiên hướng nói theo một cái chất giọc tương đôi dồng với cả người Mỹ, ok?
+[1544.24s -> 1548.84s]  Nếu như con có xem phim, hình như thầy không nhận bà bộ phim dân đoàn này cũng là của Mỹ
+[1548.84s -> 1553.54s]  thì khá hay là của Anh, thầy không nhớ nữa, nhưng mà hình như là của Mỹ
+[1553.54s -> 1558.04s]  thì nếu như con có lắng nghe thì cái chất giọc của họ sẽ là giọc của người Mỹ
+[1558.04s -> 1561.94s]  giọc của người Mỹ và giọc của người Anh sẽ là 2 cái giọc phổ biến nhất trên thế giới, ok?
+[1561.94s -> 1564.44s]  Có những cái giọc khác thì nó sẽ là lai tạp giữa 2 cái giọc này
+[1564.44s -> 1569.04s]  hoặc là có một chút tích tắc động của 1 trong 2 cái giọc này, ok?
+[1569.04s -> 1572.04s]  Nhưng mà cái điểm khác biệt của 2 giọc này là chỗ nào?
+[1572.14s -> 1574.34s]  Thầy, hãy cho con một vài cái điểm khác biệt nhé
+[1574.34s -> 1576.04s]  để con có thể hình dung và dễ hơn.
+[1576.04s -> 1579.74s]  Đấy là thường thì các cô ở trên lớp các con, các cô đọc cho các con
+[1579.74s -> 1584.54s]  thì đấy sẽ là cái giọc Anh, Anh, cái giọc của người Anh chuẩn.
+[1584.54s -> 1590.64s]  Nhưng, nhưng cái cách mà các cô đọc cho các con, nó không phải là giọc Anh, ok?
+[1590.64s -> 1594.44s]  Có lẽ phần này con sẽ hơi có hiểu một chút, nhưng mà thầy sẽ thích kỹ hơn.
+[1594.44s -> 1600.04s]  Đấy là mặc dù là các con sẽ được học theo thiên âm của người Anh,
+[1600.04s -> 1604.04s]  nhưng các cô giá của con sẽ không có cái chất tọc đấy.
+[1604.04s -> 1608.94s]  Đây là bởi vì giọc của người Anh rất là khó nghe và rất là khó học theo, ok?
+[1608.94s -> 1613.04s]  Cho nên là những người dạy của chúng ta đa phần là sẽ không có đủ cái trình đội truyền môn như thế.
+[1613.04s -> 1617.04s]  Rất là ít người có đủ cái trình môn truyền môn để có thể nói được cái giọc Anh.
+[1617.04s -> 1619.24s]  Tất nhiên là ít ở đây không phải là chỉ có vài người đâu nhé.
+[1619.24s -> 1624.84s]  Mà sẽ có khá là nhiều người, nhưng mà so với số lượng người nói giọc Mỹ thì nó sẽ không nhiều vầng, ok?
+[1624.84s -> 1627.04s]  Ở đây thì dự khắp điểm ở đây,
+[1627.04s -> 1630.04s]  mình sẽ cho con một cái ví dụ đòi chính là từ Peter.
+[1630.04s -> 1635.04s]  Từ Peter đây nó có nghĩa là, để nói như thế nào nhỉ, ok?
+[1635.04s -> 1638.04s]  Nó có nghĩa là hơi kiểu đắng đắng một tí, đắng.
+[1638.04s -> 1640.04s]  Tó lại nó là vị đạo, ok?
+[1640.04s -> 1644.04s]  Thì ở đây từ Peter, nếu như mà các bạn đọc ở trên lớp,
+[1644.04s -> 1646.04s]  nó sẽ đọc các bạn sẽ đọc là Peter, đúng nhỉ?
+[1646.04s -> 1648.04s]  Đây sẽ là cái cách đọc của giọc Anh.
+[1648.04s -> 1653.04s]  Nhưng mà khi mà chúng ta chuyển sang giọc Mỹ thì chúng ta đổi thành từ Peter, thành từ Peter.
+[1654.04s -> 1659.04s]  Thức là thay vì chúng ta đọc chữ T, chúng ta sẽ đọc sang chữ D, ok?
+[1659.04s -> 1665.04s]  Nó thì đây là một phần cơ bản nhất và một sự khác biệt tướng nhất của người Anh và người Mỹ.
+[1665.04s -> 1669.04s]  Trong cái cách đọc thì chúng ta thường chữ T có giọc chữ này thành chữ D.
+[1669.04s -> 1673.04s]  Còn một vài từ nữa, con có thể nhìn thấy rất là nhiều đổi chữ này từ cutting này,
+[1673.04s -> 1675.04s]  thì chúng ta sẽ không đọc là cutting, nếu như mà chúng ta đọc giọc Mỹ,
+[1675.04s -> 1679.04s]  mà chúng ta đọc là cutting, cutting, cutting, ok?
+[1680.04s -> 1682.04s]  Đây là một trong những phần cơ bản nhất.
+[1682.04s -> 1685.04s]  Còn những phần nữa thì hôm nay sẽ không giới thiệu quá là nhiều,
+[1685.04s -> 1689.04s]  mà chỉ cho con biết đổ vài cái chữ phần thay đổi giọc như thế này thôi,
+[1689.04s -> 1692.04s]  để con có thể hình dung là trên thế giới này thì có những cái cách đọc như thế nào.
+[1692.04s -> 1695.04s]  Và cách đọc như thế nào sẽ là cạnh đọc nó chuẩn sắc hơn,
+[1695.04s -> 1698.04s]  nếu mà con muốn theo một cái chất giọc nhất định, ok?
+[1698.04s -> 1702.04s]  Ở đây thì có lẽ là con đang chưa nghĩ đến cái vấn đề này, đúng không nhỉ?
+[1702.04s -> 1705.04s]  Chắc là mình đang chưa nghĩ đến cái việc là mình sẽ theo một cái chất giọc nào, đúng không?
+[1705.04s -> 1710.04s]  Vậy thì thầy có một cái phương pháp mà thầy muốn chia sẻ cho con về con,
+[1710.04s -> 1714.04s]  nếu như con có nhiều cầu cần thì mình có thể thử chuyển sang cái chủ đề đó,
+[1714.04s -> 1716.04s]  hay là chuyển sang cái giọc điệu đó.
+[1716.04s -> 1720.04s]  Ở đây thì chắc là con, nếu như con có xem một chiếc mạng,
+[1720.04s -> 1725.04s]  thì con mình có xem những cái video trên youtube về việc dạy đề nhanh,
+[1725.04s -> 1727.04s]  thì mình có thể nhìn thấy cái từ này.
+[1727.04s -> 1729.04s]  Đó chính là từ accent, ok?
+[1729.04s -> 1731.04s]  Không biết là con nhìn thấy từ vật này bao giờ chưa?
+[1731.04s -> 1734.04s]  Ok, đây được gọi là cái giọc điệu đó.
+[1734.04s -> 1736.04s]  Nếu như mà chúng ta có một cái chất giọc anh,
+[1736.04s -> 1739.04s]  anh, anh thì chúng ta sẽ gọi là British accent,
+[1739.04s -> 1741.04s]  tức là giọc của người anh,
+[1741.04s -> 1746.04s]  hay là nếu như chúng ta có giọc của người Mỹ thì chúng ta sẽ có cái giọc nó là American accent.
+[1746.04s -> 1750.04s]  Thì đấy là cái kiểu giọc của chúng ta.
+[1750.04s -> 1753.04s]  Ở đây thì nếu như con muốn học theo giọc của người anh,
+[1753.04s -> 1757.04s]  hay là người Mỹ thì thầy có một cái phương pháp cho con,
+[1757.04s -> 1759.04s]  đây là một phương pháp thầy gọi tên nó.
+[1759.04s -> 1761.04s]  Thực ra không phải là thầy là người đầu tiên gọi tên nó,
+[1761.04s -> 1767.04s]  nhưng mà các nhà khoa học đã gọi tên nó ở đây là phương pháp shadow speaking.
+[1767.04s -> 1770.04s]  Ở đây phương pháp shadow speaking này để giải thích một chút,
+[1770.04s -> 1774.04s]  nó có nghĩa là phương pháp lặp lại phần nói,
+[1774.04s -> 1777.04s]  tóm lại là con sẽ nhái theo,
+[1777.04s -> 1779.04s]  bắt chức theo phần nói của người bạn sứa.
+[1779.04s -> 1781.04s]  Tức là sao?
+[1781.04s -> 1784.04s]  Tức là họ phát âm màu từ thì con sẽ phát âm lại
+[1784.04s -> 1788.04s]  với giọc điệu và cái chất giọc con sẽ bắt chức hoàn toàn theo giống như họ.
+[1788.04s -> 1791.04s]  Và mình sẽ cố gắng bắt chức giống 100% giống như họ.
+[1791.04s -> 1794.04s]  Tất nhiên thôi, mình sẽ không thể nào mà bắt chức hoàn toàn giống như họ được
+[1794.04s -> 1798.04s]  bởi vì nó có rất nhiều nhiều tố hành hưởng nữa đúng không?
+[1798.04s -> 1800.04s]  Cái chất giọc thuần tự nhiên của chúng ta nó sẽ ảnh hưởng rất là nhiều.
+[1800.04s -> 1803.04s]  Nhưng khi mà con bắt chức nhiều rồi,
+[1803.04s -> 1806.04s]  thì con sẽ có được một chất giọc má ná giống như họ.
+[1806.04s -> 1811.04s]  Đây là một phần rất là hữu ích để các bạn có được một chất giọc hay.
+[1811.04s -> 1813.04s]  Con có thể là người nước ngoài người ta nói rất là nhanh đúng không nhỉ?
+[1813.04s -> 1817.04s]  Người ta nói một cái tốc độ rất là nhanh và rất là kiểu
+[1817.04s -> 1819.04s]  nghe nó rất là dễ dàng đúng không?
+[1819.04s -> 1822.04s]  Nhưng chúng ta đọc thì chúng ta cảm thấy là chúng ta đọc lúc nào là hơi khó khăn hơn.
+[1822.04s -> 1825.04s]  Nhưng làm thế nào để chúng ta có thể đọc dễ dàng hơn?
+[1825.04s -> 1827.04s]  Đây chính là cái chất giọc speaking này.
+[1827.04s -> 1830.04s]  À, đấy là khi con có thể tưởng tượng là
+[1830.04s -> 1832.04s]  ở trên lớp ấy các cô thường dạy con ạ.
+[1832.04s -> 1834.04s]  À, các bạn đọc cho cô từ này.
+[1834.04s -> 1837.04s]  Giờ các bạn sẽ đọc theo cái cô giáo trên bản đúng không nhỉ?
+[1837.04s -> 1840.04s]  Và con có thể thấy là khi mà con lắng nghe cô đấy đọc
+[1840.04s -> 1844.04s]  và con được đọc lại thì nó khá là giống nhau đúng không?
+[1844.04s -> 1846.04s]  Nó khá là giống nhau.
+[1846.04s -> 1848.04s]  Và thì cái phút vọng này áp dụng chính cái điều đấy
+[1848.04s -> 1852.04s]  để con có thể, để nạo bộ con có thể nhớ được cái cách đọc
+[1852.04s -> 1855.04s]  của người đã nói trong video.
+[1855.04s -> 1857.04s]  Và cái nạo bộ con sẽ tự động nhớ cái lọc đó.
+[1857.04s -> 1860.04s]  Nhưng điều này sẽ yêu cầu con phải rất là chăm chỉ là cái.
+[1860.04s -> 1864.04s]  Ở đây thầy có, nếu như mà con có đầy đủ laptop
+[1864.04s -> 1866.04s]  và điện thoại hay là con có nhiều điện thoại ở nhà
+[1866.04s -> 1868.04s]  thì con có thể sử dụng bằng cách là
+[1868.04s -> 1870.04s]  mình có thể đeo tanh nghe
+[1870.04s -> 1873.04s]  và mình hãy xem một cái video bất kỳ của người bạn sửa trên YouTube.
+[1873.04s -> 1876.04s]  Hãy nhớ là hãy bật một cái video nào để có phụ đề lên như thế nhé.
+[1876.04s -> 1878.04s]  Chọn một cái diễn viên hay là chọn một cái người này đấy
+[1878.04s -> 1881.04s]  mà con rất là yêu thích, là một người nước ngoài
+[1881.04s -> 1884.04s]  và thầy khuyên là một người phụ nữ nhé.
+[1884.04s -> 1887.04s]  Còn người đàn ông thì chúng ta sẽ còn đảm bác chức theo được rồi đúng không?
+[1887.04s -> 1891.04s]  Thì đấy, khi mà chúng ta, khi mà họ nói hết một câu
+[1891.04s -> 1894.04s]  hay là họ nói hết được một khoảng đoạn nào đấy
+[1894.04s -> 1897.04s]  thì con đã dừng cái đoạn đấy lại và đọc lại thấy
+[1897.04s -> 1900.04s]  cái đoạn mà người ta mới nói.
+[1900.04s -> 1903.04s]  Như thầy đã nói rồi, khi mà con nói, khi mà con lắng nghe người ta
+[1903.04s -> 1906.04s]  thì con có thể ngay lập tức nói lại cái câu của người ta luôn.
+[1906.04s -> 1908.04s]  Nhưng mà nếu như con để khoảng đoạn 30 giây
+[1908.04s -> 1910.04s]  hay là để khoảng bố phút tôi thực thiệt
+[1910.04s -> 1913.04s]  thì thầy tin là con sẽ không nhớ được là người ta nói nói gì nữa.
+[1913.04s -> 1916.04s]  Thầy không cần con quan tâm đến tử vượng
+[1916.04s -> 1919.04s]  trong video đó, thầy chỉ cần con cứ đọc theo,
+[1919.04s -> 1921.04s]  đọc theo và đọc theo thôi, ok?
+[1921.04s -> 1923.04s]  Và thầy cần con làm cho thầy mỗi ngày. Nếu như mà được ấy
+[1923.04s -> 1925.04s]  thì con có thể thử lắm và thầy mỗi ngày
+[1925.04s -> 1927.04s]  khoảng từ 15-20 phút, ok?
+[1927.04s -> 1929.04s]  Tất nhiên rồi, không cần phải quá liền đó nhé.
+[1930.04s -> 1933.04s]  Thì con có thể gọi là sáng mình tập 5 phút này,
+[1933.04s -> 1936.04s]  chưa mình về nhà mình ngủ thì mình có thể tập
+[1936.04s -> 1938.04s]  thêm 5 phút nữa, rồi tối mình trước khi đi ngủ thì mình có thể
+[1938.04s -> 1941.04s]  xúc miệng mặn 10 phút tập thương, ok?
+[1941.04s -> 1943.04s]  Thì như thế, đấy là một cái thứ mà con có thể
+[1943.04s -> 1945.04s]  mình có thể chưa bớt thời gian ra thầy mình có thể học
+[1945.04s -> 1946.04s]  và đây là một phút pháp hoặc
+[1946.04s -> 1948.04s]  con có thể đấy là hoàn toàn miệng khí
+[1948.04s -> 1951.04s]  con chỉ cần có một cái tay nghe, một cái điện hoại
+[1951.04s -> 1954.04s]  và mình có thể ghi âm lại cái phần mà mình nói
+[1954.04s -> 1956.04s]  để so sánh xem là
+[1956.04s -> 1958.04s]  à, cái phần mà người ta nói và cái phần của mình nói
+[1958.04s -> 1960.04s]  nghe nó có giống nhau hay không?
+[1960.04s -> 1962.04s]  Ok, con rất cần phải xem rằng là mình giống nhau
+[1962.04s -> 1964.04s]  như thế nào mà, cho nên là mình sẽ cần phải ghi âm lại
+[1964.04s -> 1966.04s]  đó là lý do tại sao mà thầy cần
+[1966.04s -> 1968.04s]  con có ít nhất là 2 cái điện thoại
+[1968.04s -> 1970.04s]  và có 1 cái điện thoại 1 cái laptop, ok?
+[1970.04s -> 1972.04s]  Được rồi, phút pháp này thì
+[1972.04s -> 1974.04s]  đã được chứng minh rất là nhiều rồi
+[1974.04s -> 1976.04s]  và con có thể hoàn toàn lên youtube
+[1976.04s -> 1978.04s]  để mình xem về cái phút pháp này
+[1978.04s -> 1980.04s]  cũng có rất là nhiều những cái người
+[1980.04s -> 1982.04s]  chia sẻ về cái phút pháp này rồi
+[1982.04s -> 1984.04s]  và thầy mong là con có thể áp dụng nó
+[1984.04s -> 1986.04s]  chăm chỉ, thì chỉ cần con mỗi ngày
+[1986.04s -> 1988.04s]  để tập trọng thầy khoảng từ 15-30 phút thôi
+[1988.04s -> 1990.04s]  và thầy tin là sau 1 tháng thôi
+[1990.04s -> 1992.04s]  thì cái khả năng ngôi con
+[1992.04s -> 1994.04s]  nó sẽ tiến mỗi rất là nhiều, ok?
+[1994.04s -> 1996.04s]  Chúng ta cùng đến với cả phần tư vụng
+[1996.04s -> 1998.04s]  với cả phần mượt pháp nhé
+[1998.04s -> 2000.04s]  2 phần này thì theo quê trọng nhạc như thế nào
+[2000.04s -> 2002.04s]  về cái lượng tư vụng và lượng của chung mượt pháp
+[2002.04s -> 2004.04s]  mình đã sử dụng trong vợ ngày hôm nay
+[2004.04s -> 2006.04s]  theo con thì nó có nhiều hay không?
+[2006.04s -> 2008.04s]  hay nó hơi ít được với con?
+[2008.04s -> 2010.04s]  Dạ, mất vừa phải
+[2010.04s -> 2012.04s]  không có gì không ít nữa
+[2012.04s -> 2014.04s]  Ok, được rồi
+[2014.04s -> 2016.04s]  Thứ nhất là con có thể có đủ khả năng
+[2016.04s -> 2018.04s]  để trả lời những câu hỏi của thầy
+[2018.04s -> 2020.04s]  chức sẻ với con
+[2020.04s -> 2022.04s]  thầy đã làm việc với rất là nhiều bạn
+[2022.04s -> 2024.04s]  kể cả các bạn từ rất là bé
+[2024.04s -> 2026.04s]  từ lớp 3 trở đến một bạn học đại học
+[2026.04s -> 2028.04s]  cho đến những các bạn học đại học
+[2028.04s -> 2030.04s]  Như câu hỏi vừa rồi là những câu hỏi
+[2030.04s -> 2032.04s]  mà thầy hãy hỏi
+[2032.04s -> 2034.04s]  bởi vì con có thể thấy
+[2034.04s -> 2036.04s]  là những câu hỏi này dành cho các bạn học sinh đúng nhở
+[2036.04s -> 2038.04s]  và thầy ít làm việc với cả những người lớn
+[2038.04s -> 2040.04s]  cho nên thầy có thể đánh giá được
+[2040.04s -> 2042.04s]  và thầy có thể xác sáng được khá nhiều bạn với nhau
+[2042.04s -> 2044.04s]  và thầy có thể thấy là cái khả năng
+[2044.04s -> 2046.04s]  vặt đối lượng tư vựng của con
+[2046.04s -> 2048.04s]  tự liệu này tại đang khá nhiều
+[2048.04s -> 2050.04s]  cho bạn đất bảy, thế
+[2050.04s -> 2052.04s]  và nó còn nhiều hơn rất nhiều
+[2052.04s -> 2054.04s]  đối với những anh chị lớn 3
+[2054.04s -> 2056.04s]  mà thầy đã từng làm việc nữa
+[2056.04s -> 2058.04s]  đây là một cái mà thầy thấy khá là thích
+[2058.04s -> 2060.04s]  và cách trả lời con thì thầy cũng thật thầy có
+[2060.04s -> 2062.04s]  những sự cố gắng cho cái phần trả lời của mình
+[2062.04s -> 2064.04s]  Đang kênh
+[2064.04s -> 2066.04s]  Cái điểm mà thầy thấy có một chút
+[2066.04s -> 2068.04s]  mà chúng ta vẫn thật phải cải thiện
+[2068.04s -> 2070.04s]  đôi chỗ mình đang hơi bị lạc
+[2070.04s -> 2072.04s]  có thể đấy là trong cái phần này
+[2072.04s -> 2074.04s]  hôm nay thì con đã bị lạc một vài tử vựng
+[2074.04s -> 2076.04s]  ví dụ nhà từ
+[2076.04s -> 2078.04s]  cute đúng không?
+[2078.04s -> 2080.04s]  hay là có thể mình
+[2080.04s -> 2082.04s]  hãy sử dụng cái từ beautiful đúng không nhỉ
+[2082.04s -> 2084.04s]  là một cái từ mà con có thể thấy là
+[2084.04s -> 2086.04s]  là một cái từ mà đa phần là chúng ta cũng
+[2086.04s -> 2088.04s]  dùng khá là nhiều đúng không?
+[2088.04s -> 2090.04s]  Vậy thì có những cái từ nào
+[2090.04s -> 2092.04s]  để chúng ta có thể thay thế những cái tử vựng này
+[2092.04s -> 2094.04s]  ở đây phải chia sẻ con một vài tử vựng
+[2094.04s -> 2096.04s]  tất nhiên cái vốn tử vựng của thầy
+[2096.04s -> 2098.04s]  liên quan đến cái tử vựng này
+[2098.04s -> 2100.04s]  không sử dụng quá nhiều bởi vì
+[2100.04s -> 2102.04s]  thú thật là thầy cũng không
+[2102.04s -> 2104.04s]  khen người khác quá là nhiều
+[2104.04s -> 2106.04s]  cho nên thầy cũng không tìm hiểu quá nhiều cái tử vựng này
+[2106.04s -> 2108.04s]  ở đây thầy nghĩ là có một vài từ
+[2108.04s -> 2110.04s]  con có thể biết là chính là từ
+[2110.04s -> 2112.04s]  adorable
+[2112.04s -> 2114.04s]  chắc là từ này con biết rồi đúng không
+[2114.04s -> 2116.04s]  cái từ này nó sẽ bằng với là từ cute
+[2116.04s -> 2118.04s]  nhưng nó sẽ ở một cái level
+[2118.04s -> 2120.04s]  cao rất là nhiều
+[2120.04s -> 2122.04s]  nó sẽ ở một cái level cao rất là nhiều
+[2122.04s -> 2124.04s]  hay là nếu như muốn nói về
+[2124.04s -> 2126.04s]  một người con trai mà rất là
+[2126.04s -> 2128.04s]  tử vựng này thì không biết là
+[2128.04s -> 2130.04s]  khen có biết tử vựng nào để mô tác không nhỉ
+[2134.04s -> 2136.04s]  ngấy dưới đẹp trai cái từ đẹp trai là từ nào nhỉ
+[2136.04s -> 2138.04s]  con có nhớ không
+[2138.04s -> 2140.04s]  handsome
+[2140.04s -> 2142.04s]  tử handsome nó
+[2142.04s -> 2144.04s]  ngoài tử handsome ra thì còn một vài từ nữa
+[2144.04s -> 2146.04s]  là chính là từ
+[2146.04s -> 2148.04s]  i'm sorry
+[2148.04s -> 2150.04s]  ok
+[2150.04s -> 2152.04s]  là chính là từ good looking
+[2152.04s -> 2154.04s]  good looking
+[2154.04s -> 2156.04s]  good looking
+[2156.04s -> 2158.04s]  ok hay là nếu như mô tảm
+[2158.04s -> 2160.04s]  một người con gái đi
+[2160.04s -> 2162.04s]  chúng ta có những cái tử như là từ
+[2162.04s -> 2164.04s]  gorgeous
+[2164.04s -> 2166.04s]  cái từ này có thể lớn hơn rất là nhiều
+[2166.04s -> 2168.04s]  so với tử beautiful ok gorgeous
+[2168.04s -> 2170.04s]  cho là từ này con sẽ không được nhìn thấy đâu
+[2170.04s -> 2172.04s]  hay là từ gorgeous này
+[2172.04s -> 2174.04s]  sẽ được mưu tảm một cái con
+[2174.04s -> 2176.04s]  nếu như con mô tảm một con gái rất là beautiful
+[2176.04s -> 2178.04s]  nhưng mà con mô tảm người kia
+[2178.04s -> 2180.04s]  rất là gorgeous
+[2180.04s -> 2182.04s]  thì cái người gorgeous đấy
+[2182.04s -> 2184.04s]  con có thể gấp đến 10 lần so với người beautiful
+[2184.04s -> 2186.04s]  ok tức là cái
+[2186.04s -> 2188.04s]  cấp độ nó là lớn hơn rất là nhiều
+[2188.04s -> 2190.04s]  ok hay là một từ nữa thấy nghĩa là con
+[2190.04s -> 2192.04s]  có thể thấy rồi đó chính là từ pretty
+[2192.04s -> 2194.04s]  ok thế là từ này con nhìn thấy rồi đúng không
+[2194.04s -> 2196.04s]  dạ
+[2196.04s -> 2198.04s]  đây là một vài cái tử vực mà mình muốn cho con
+[2198.04s -> 2200.04s]  mô tảm cái sự sinh đẹp của mọi người
+[2200.04s -> 2202.04s]  trong cái mán may
+[2202.04s -> 2204.04s]  ok còn nếu
+[2204.04s -> 2206.04s]  như muốn mô tảm về một cái quăng
+[2206.04s -> 2208.04s]  cảnh đẹp thì chúng ta sửa tử nào
+[2208.04s -> 2210.04s]  theo con thì chúng ta nên sửa tử nào
+[2210.04s -> 2212.04s]  ok
+[2212.04s -> 2214.04s]  dạ
+[2214.04s -> 2216.04s]  đúng rồi
+[2216.04s -> 2218.04s]  dù mưu tảm mọi người đẹp thế
+[2218.04s -> 2220.04s]  hay là cái gì ạ
+[2220.04s -> 2222.04s]  ok thì chúng ta sửa tử nào nhỉ
+[2222.04s -> 2224.04s]  có phải là từ beautiful đúng không nhỉ
+[2224.04s -> 2226.04s]  ok
+[2226.04s -> 2228.04s]  thức tình ngoài từ beautiful dài thì thấy lại thêm
+[2228.04s -> 2230.04s]  cho con một cái tử nữa
+[2230.04s -> 2232.04s]  mà thấy tin là con cũng sẽ không được học
+[2232.04s -> 2234.04s]  ở đây nhưng mà con sẽ được học ở trên ales
+[2234.04s -> 2236.04s]  đây chính là từ
+[2236.04s -> 2238.04s]  breathtaking
+[2238.04s -> 2240.04s]  từ breathtaking
+[2240.04s -> 2242.04s]  mấy mọi tử vực nữa cho mọi người
+[2242.04s -> 2244.04s]  từ breath
+[2244.04s -> 2246.04s]  có nghĩa là hơi thỏ
+[2246.04s -> 2248.04s]  và từ taking
+[2248.04s -> 2250.04s]  tức là sao tức là đây là phải
+[2250.04s -> 2252.04s]  đẹp lấy đi hơi thỏ
+[2252.04s -> 2254.04s]  tức là sao này
+[2254.04s -> 2256.04s]  tức là khi mà thấy quăng cảnh đó
+[2256.04s -> 2258.04s]  khi mà thấy view đó
+[2258.04s -> 2260.04s]  thì thấy chết lặng giữa
+[2260.04s -> 2262.04s]  quảng cảnh đó
+[2262.04s -> 2264.04s]  tức là nó đẹp đến mức lặng người nữa
+[2264.04s -> 2266.04s]  có thấy không
+[2266.04s -> 2268.04s]  nghe thì có vẻ trả giống từ tẹp
+[2268.04s -> 2270.04s]  đẽ lắm nhưng mà nó cực kì là
+[2270.04s -> 2272.04s]  mô tả rất là hay hò đúng không nhỉ
+[2272.04s -> 2274.04s]  được rồi
+[2274.04s -> 2276.04s]  đấy nó một vài từ hợp mà thấy mỗi chiếc thế
+[2276.04s -> 2278.04s]  con cho cái vợn hôm nay và thấy hy vọng
+[2278.04s -> 2280.04s]  sau vợn này thì mình sẽ có thêm rất nhiều từ
+[2280.04s -> 2282.04s]  mô tả
+[2282.04s -> 2284.04s]  từng loại đẹp một
+[2284.04s -> 2286.04s]  Nam đẹp thì chúng ta có từ hợp nào này
+[2286.04s -> 2288.04s]  nữ đẹp thì chúng ta có từ hợp nào hay là
+[2288.04s -> 2290.04s]  cảng đẹp thì chúng ta có từ hợp nào
+[2290.04s -> 2292.04s]  ok
+[2292.04s -> 2294.04s]  vụ hợp nghe hôm nay của chúng ta không đã kết thức vào đây rồi
+[2294.04s -> 2296.04s]  mình muốn là con thấy rất là hy vọng
+[2296.04s -> 2298.04s]  sau vợn này thì con sẽ có thể có
+[2298.04s -> 2300.04s]  được một cái
+[2300.04s -> 2302.04s]  cá nhìn ra chiều hơn về cái mỗi chiếc anh này
+[2302.04s -> 2304.04s]  và sẽ có cho mình những thái niệm yếu thích để mỗi chiếc anh này hơn nữa
+[2304.04s -> 2306.04s]  ok so goodbye
+[2306.04s -> 2308.04s]  goodbye
+[2308.04s -> 2310.04s]  ok
