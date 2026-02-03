@@ -60,9 +60,12 @@
 #     print("\nDone! Check the transcriptions folder.")
 #     print(f"\nElapsed time: {elapsed_time:.4f} seconds")
 
-import nemo.collections.asr as nemo_asr
+# import nemo.collections.asr as nemo_asr
 
-asr_model = nemo_asr.models.ASRModel.from_pretrained(model_name = "nvidia/parakeet-ctc-0.6b-Vietnamese")
+# asr_model = nemo_asr.models.ASRModel.from_pretrained(model_name = "nvidia/parakeet-ctc-0.6b-Vietnamese")
 
-output = asr_model.transcribe(['../data/raw/1.mp3'])
-print(output[0].text)
+# output = asr_model.transcribe(['../data/raw/1.mp3'])
+# print(output[0].text)
+
+import static_ffmpeg
+
