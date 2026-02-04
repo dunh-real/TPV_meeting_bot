@@ -1,0 +1,4 @@
+
+# down load from https://www.gyan.dev/ffmpeg/builds/#release-builds: ffmpeg-release-essentials.zip 
+# => unzip => copy path "C:\AI Project\Chatbot recording\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe"
+# to ffmpeg = r"C:\AI Project\Chatbot recording\ffmpeg-8.0.1-essentials_build\bin\ffmpeg.exe" in convert_audio.py
