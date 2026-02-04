@@ -1,0 +1,655 @@
+[2.49s - 6.90s] SPEAKER_00: Ờ thầy xin tự giới thiệu Thầy là Tú và hôm nay tại sức đồng hành của người con trong bài học lần này.
+[7.54s - 12.10s] SPEAKER_00: Ờậy thì trước khi chúng ta đi vàoò học chính thì thầy và con cùng có thểọc quen nhau một chút được không nhỉ?
+[14.21s - 16.30s] SPEAKER_00: Ch chưa thể hỏi là khoê vừa mới đi học về, đúng không?
+[17.65s - 19.69s] SPEAKER_01: Dạ không, con đang ở nhà.
+[20.28s - 21.88s] SPEAKER_00: À  Ô kê được rồi!
+[22.37s - 23.52s] SPEAKER_00: Ờ vậy thì.
+[23.86s - 25.73s] SPEAKER_00: ChỜo là năm nayuya học lớ mấy nhỉ?
+[26.36s - 27.64s] SPEAKER_01: Dạ, hôm nay con học lớ bảy.
+[28.08s - 29.39s] SPEAKER_00: LỜ lớp bảy đúng không nhờ?
+[29.68s - 32.79s] SPEAKER_00: Thế thì cho tôi hỏi là sau một năm con học ở trường cấp hai rồi thì
+[33.11s - 35.08s] SPEAKER_00: Khê cảm nhận được là tiếng Anh cấp hai.
+[35.40s - 36.31s] SPEAKER_00: Có gì khó khăn không?
+[36.35s - 37.71s] SPEAKER_00: Có cái gì khó khăn được với con không?
+[39.99s - 40.90s] SPEAKER_01: Dạ cũng h không khó mấy.
+[41.54s - 44.24s] SPEAKER_00: xong rồi cấp một là cũng.
+[44.68s - 47.70s] SPEAKER_00: CỜ cũng không quá, có quá là nhiều khác biệt đúng không?
+[48.26s - 49.19s] SPEAKER_00: Ờ, vậy thì.
+[49.66s - 51.82s] SPEAKER_00: Năm lớp bảy này thì con đã được học được anh chưa?
+[54.13s - 59.57s] SPEAKER_00: Ờ vẫn học rồi à? Vậy thì không biết là Kh quê có thấy có khó khăn gì không? hay là con thấy có điều gì mới mẻ không?
+[62.05s - 63.23s] SPEAKER_00: Ok được rồi.
+[63.30s - 67.92s] SPEAKER_00: Chắc là cũng mới qua một buổi học đầu tiên nên là mình cũng chưa thấy có quá nhiều điều mới mẻ được không nhỉ.
+[68.49s - 69.10s] SPEAKER_00: Àược rồi.
+[69.54s - 72.07s] SPEAKER_00: Hôm nay thì chúng ta sẽ có một cái buổi học học phần nói.
+[72.51s - 73.64s] SPEAKER_00: Ờ rất hỏi là.
+[73.86s - 74.70s] SPEAKER_00: Quê có.
+[75.01s - 76.44s] SPEAKER_00: Quê có hay luyện nói tiếng anh không?
+[78.47s - 80.76s] SPEAKER_01: D giả lúc trước có mà.
+[81.84s - 86.95s] SPEAKER_00: cho thể hỏi là lúc trước là con luyện nói tiếng Anh như thế nào nhỉ? có thể chia sẻ với thầy được không?
+[87.93s - 88.52s] SPEAKER_01: 
+[89.42s - 92.17s] SPEAKER_01: Con thì nói tiếng anh với người Philippines.
+[92.94s - 93.59s] SPEAKER_00: Ờ
+[93.94s - 97.11s] SPEAKER_00: Và con đấy là giáo viên của con đúng không? Giáo viên trước kiểu của con đúng không?
+[97.72s - 98.31s] SPEAKER_00: Hay là?
+[98.63s - 100.79s] SPEAKER_00: Ờ o kê được rồi.
+[101.11s - 104.20s] SPEAKER_00: Th thầy thì thầy không có nhiều người bạn là.
+[104.50s - 107.86s] SPEAKER_00: Thầy không có người bạn là người Philippines, nhưng mà thầy có những người bạn là người nước khác.
+[108.37s - 112.52s] SPEAKER_00: Và thầy cũng khá là tò mò, không biết là giọng của người phi líp pin thì sẽ như thế nào ởê.
+[113.01s - 116.45s] SPEAKER_00: Ng ngày hôm nay thì chúng ta sẽ có một cái buổi luyện nói và
+[117.08s - 121.58s] SPEAKER_00: Th thầy rất là mong là con có thể thấy được hết những cái khả năng của mình trong cái phần nói ngày hôm nay.
+[122.12s - 124.87s] SPEAKER_00: NhữngỜ những cái câu hỏi ngày hôm nay của thầy thì nó sẽ không.
+[125.04s - 127.44s] SPEAKER_00: Quá là khó về mặt từ vựng dẫn cấu trúc ngữ pháp.
+[127.99s - 131.00s] SPEAKER_00: Và thầy mong là con có thể hiện được hết những cái khả năng của mình.
+[131.49s - 135.27s] SPEAKER_00: Chính vì vậy, thì có một vài cái yêu cầu nho nhỏ trước khi chúng ta chuyển sang cái bộp chính nhé.
+[135.93s - 140.19s] SPEAKER_00: Đầu tiên, đấy là nếu như mà Khuê không hiểu bất cứ từ vự hay là bất cứ câu hỏi nào mà thấy đưa ra.
+[140.50s - 141.61s] SPEAKER_00: Thì con có thể nói với thầy.
+[142.24s - 149.26s] SPEAKER_00: Thầy rất giải đáp những cái thắc mắc liên quan đến những cái phần nào mà con không biết, ví dụ như từ v vọng hay là câu hỏi nó không hiểu thì con có thể nói vớiầy nhá.
+[149.88s - 152.55s] SPEAKER_00: Thứ hai là, nếu như mà con hiểu câu hỏi của thầy nghĩa là gì?
+[153.04s - 157.47s] SPEAKER_00: Nhưng mà con chưa thể trả lời câu hỏi của thầy bằng tiếng Anh được thì con có thể trả lời câu hỏi của thầy bằng tiếng Việt.
+[157.68s - 158.77s] SPEAKER_00: Sau đấy thì thầy sẽ.
+[159.13s - 161.96s] SPEAKER_00: Hỗ trợ con trong việc dịch cái câu trả lời đó từ tiếng ngườiân tiếng Anh.
+[162.84s - 165.41s] SPEAKER_00: Ờầy chỉ có hai cái yêu cầu đấy thôi, chắc là con nắm được rồi, đúng không?
+[166.33s - 167.23s] SPEAKER_00: Oê rồi.
+[167.73s - 169.81s] SPEAKER_00: Không biết là bây giờ thì qu cô ấy đã sẵn sàng chưa.
+[171.31s - 172.39s] SPEAKER_00: oê.
+[172.80s - 181.17s] SPEAKER_00: Cái buổi te này của chúng ta sẽ không diễn ra quá là lâu đâu, chỉ diễn ra trong khoảng từ hai mươi cho đến hai mươi lăm phút sắp tới mà thôi, Cho nên là chúng ta đã chỉ cần cố gắng trong cái hàng đấy thôi.
+[181.59s - 183.21s] SPEAKER_00: Sau đấy, thầy sẽ nhận xét con.
+[183.38s - 188.54s] SPEAKER_00: Và chúng ta sẽ cùng đi đến những cái phương pháp mà thầyát này cho con để có thể cải thiện thêm được cái phần tiếng Anh của mình.
+[190.50s - 194.08s] SPEAKER_00: NỜào quyền aấn vào giờ.
+[194.63s - 195.24s] SPEAKER_00: Chào Mỹ.
+[195.53s - 196.84s] SPEAKER_00: Gắt ý n.
+[198.18s - 199.95s] SPEAKER_01: Man emi chần đi mộtuê.
+[200.56s - 201.37s] SPEAKER_00: Oê.
+[201.79s - 202.31s] SPEAKER_00: Sau.
+[202.56s - 204.03s] SPEAKER_00: Hầu âu ở dữ.
+[205.06s - 205.75s] SPEAKER_01: .
+[206.58s - 207.34s] SPEAKER_01: Em.
+[208.74s - 209.70s] SPEAKER_01: Theo Â.
+[210.18s - 212.55s] SPEAKER_00: Ô ok năm nay con mười hai tuổi, đúng không?
+[213.16s - 214.14s] SPEAKER_00: Sợ theo.
+[214.66s - 216.74s] SPEAKER_00: e od.
+[218.31s - 221.21s] SPEAKER_01: Ao  in Võị Sáoun.
+[221.70s - 223.08s] SPEAKER_00: Ừ ê.
+[223.51s - 225.30s] SPEAKER_00: Đấy có ảnh trường cấp hai đúng không nhở?
+[228.01s - 229.68s] SPEAKER_00: Đ đấy có phải trường cấp hai đúng không nhở?
+[231.51s - 234.59s] SPEAKER_00: có biết từ vựng trực cấp hai cho tiếng Anh là từ nào không?
+[235.61s - 237.07s] SPEAKER_01: Xét.
+[238.34s - 239.79s] SPEAKER_01: 
+[240.15s - 244.26s] SPEAKER_00: kê rồi,ầy thấy là con đã rất là cố gắng chưa việc nhớ lại đúng không?
+[244.58s - 247.03s] SPEAKER_00: Có vẻ là từ vự này là con được giới thiệu lâu rồi, đúng không?
+[248.41s - 252.68s] SPEAKER_00: Ừ được rồi,  thầy sẽ ghi lại cho con để con có thể hiểu lại từ vực thành nhé.
+[253.31s - 255.92s] SPEAKER_00: Thực phẩm này của chúng ta đó chính là từeeno.
+[256.89s - 259.21s] SPEAKER_00: Thầy chính là cái từ gự và con đã được nhìn thế rồi, đúng không?
+[259.91s - 262.29s] SPEAKER_00: Ngoài ra thì hôm nay thẻ mới cho con thêm một từ vựng nữa.
+[262.76s - 266.67s] SPEAKER_00: Mà có lẽ là con sẽ không nhìn thấy quá là nhiều, nhưng mà nó cũng có nghĩa là từ trường cấp hai.
+[267.06s - 277.19s] SPEAKER_00: Th vâng này thì nếu như mà con có làm cái bài kiểm tra về phần đọc ấy, những cái đọc những đoạn văn ấy thì có thể là con sẽ nhìn thấy, nhưng mà thầy bố cho con để con thầy sẽ không bị bỡ ngỡ, nếu nhưng mà mình.
+[277.59s - 279.35s] SPEAKER_00: Chẳng may mình có gặp phải nó k.
+[279.84s - 280.98s] SPEAKER_00: Và chí từng biết.
+[281.35s - 282.70s] SPEAKER_00: K mítô cô.
+[283.36s - 287.65s] SPEAKER_00: nếu như mà con có học từ mít đồ rồi thì chúng ta có thể hiểu từ mítồ có nghĩa là ở giữa.
+[287.85s - 289.25s] SPEAKER_00: Ở chính giữa đó ờ cái.
+[289.56s - 299.75s] SPEAKER_00: Vậy mình thì mình có thể hiểu là có ba cấp đúng không nhở? Tr trường cấp một cấp hai, cấp ba,ậy thì trường cấp hai chính là trường nằm ở giữa đúng không? thì mình có thể hiểu đấy là cấp ở giữa đó.
+[300.37s - 303.16s] SPEAKER_00: R rồi, chúng ta cùng chuyển sang câu hỏi chín trongòng ngày hôm nay nhé.
+[304.20s - 306.24s] SPEAKER_00: S là do cậu vào hóp.
+[306.92s - 307.51s] SPEAKER_00: Theo mình.
+[307.73s - 309.47s] SPEAKER_00: Gátao hóp tỳ.
+[310.56s - 312.22s] SPEAKER_01: Mai Hot.
+[312.37s - 314.85s] SPEAKER_01: Xin ởonèen.
+[315.42s - 316.84s] SPEAKER_00: Ô o kê.
+[317.99s - 321.08s] SPEAKER_00: Phải có thể thấy con là một người khá là theo thứ nghệ thuật, đúng không nha?
+[321.50s - 322.34s] SPEAKER_00: Sờ theoỉ.
+[323.90s - 327.10s] SPEAKER_00: Ở létó vào mìu rích du sế diều lại sinh.
+[327.51s - 329.46s] SPEAKER_00: Sồi theo Mỹ oắt Khải.
+[329.79s - 331.91s] SPEAKER_00: miịù d nhiều lại.
+[333.55s - 334.34s] SPEAKER_01: 
+[338.22s - 339.96s] SPEAKER_01: Hầy có thể dịch cho con cái câu hỏi này không?
+[340.50s - 341.31s] SPEAKER_00: Tờk.
+[341.43s - 349.04s] SPEAKER_00: Thầy nghĩ là trong câu này chỉ có một cụm mà con đang không hiểu thôi, Đó chính là cụm khai ập mii trong câu hỏi quắt i cai ập Niic của thầy.
+[349.56s - 352.72s] SPEAKER_00: a định Quắt iô Phây rít khai họciuích.
+[353.16s - 356.87s] SPEAKER_00: Ở đây thì cụm từ khai phim miích này của thầy nó có nghĩa là thể loại nhạc.
+[357.09s - 358.84s] SPEAKER_00: Đ, ví dụ như là thể loạiạc.
+[358.91s - 365.59s] SPEAKER_00: R nhạc trẻ này, nhạc ba la này, nhạc ở ráp này  hay là nhạc chữ tình, nhạc dân ca kiểuệ.
+[366.25s - 368.18s] SPEAKER_00: Ờ, nhưng mà đây không phải là cái kiểu là.
+[368.60s - 376.53s] SPEAKER_00: Loại nhạc Việt Nam và nhạc nước ngoài đâu nhé, không không?  đấy là nhạc theo quốc gia thôi, chúng ta sẽ không bàn đến nó trong cái trong cái kha muyi này.
+[376.68s - 379.82s] SPEAKER_00: Mà chúng ta chỉ nhắc đến những cái thể loại mà thầy vừa mới ở đoạn đầu thôi.
+[381.47s - 383.80s] SPEAKER_00: Chắc là con hiểu rồi đúng không? sao Em sẽ hỏi là lần nữa nhé.
+[384.51s - 386.10s] SPEAKER_00: Uắtì giỏ.
+[386.60s - 387.18s] SPEAKER_00: Phay.
+[387.40s - 388.34s] SPEAKER_00: Hai ở Miếu dịch.
+[390.21s - 392.10s] SPEAKER_01: A lai ờ Chiuờ Ni s .
+[392.71s - 393.86s] SPEAKER_00: oê.
+[394.23s - 395.09s] SPEAKER_00: Sầueoỉ.
+[395.73s - 398.20s] SPEAKER_00: H hút phítinh.
+[399.87s - 402.42s] SPEAKER_01: Mai sinh gờ.
+[402.92s - 403.55s] SPEAKER_01: Theo thứ hai.
+[405.10s - 406.70s] SPEAKER_00: O kê.
+[407.38s - 414.13s] SPEAKER_00: Th thực sựầy ý mới thấy thầy cũng thấy con có một chút cái không phải có con có một chút nan hà giống đấy.
+[415.29s - 415.92s] SPEAKER_00: Theo mình.
+[416.46s - 418.08s] SPEAKER_00: Hoài đưau lai hiềm.
+[419.41s - 422.70s] SPEAKER_01: ịơi sim,ịơi sim.
+[425.11s - 425.80s] SPEAKER_01: Coi xin.
+[426.18s - 428.42s] SPEAKER_01: yi.
+[428.91s - 432.55s] SPEAKER_00: Cái anh ấy rất là đẹp trai, đúng không nhờ? Con gì đóc, con gì đâu không.
+[433.77s - 434.46s] SPEAKER_01: Em.
+[435.46s - 437.09s] SPEAKER_01: Thì sinh.
+[438.29s - 438.95s] SPEAKER_01: Ben gu.
+[439.42s - 442.43s] SPEAKER_00: Ờ  cái tại người hát tới thầy được không nhờ?
+[444.13s - 447.93s] SPEAKER_00: Ờét tơ côpo Ôêào lét tơ cơp bao sờát đi.
+[448.37s - 448.89s] SPEAKER_00: Theo mình.
+[449.43s - 452.21s] SPEAKER_00: Quắtoắt sắp dậy đưa nhiều lại.
+[453.75s - 455.44s] SPEAKER_01: Ai lai anh liệt.
+[455.99s - 458.59s] SPEAKER_00: , dừng lại lạiầu saoỉ.
+[458.79s - 461.02s] SPEAKER_00: Quái gì lại cáiinh đấy.
+[462.61s - 465.70s] SPEAKER_01: Choii hìnhười v.
+[466.20s - 466.76s] SPEAKER_00: H.
+[467.15s - 467.81s] SPEAKER_01: It tinh.
+[468.24s - 470.79s] SPEAKER_00: O.
+[472.36s - 475.74s] SPEAKER_00: Ờ trong câu hỏi này thì thầy sẽ muốn con nó sâu một chút nữa.
+[476.07s - 478.39s] SPEAKER_00: Choầy hỏi là phải dễ gợi ý một chút á.
+[478.83s - 480.63s] SPEAKER_00: ChúngỜ, chúng ta hãy nói về chuyện bằng tiền Việt một chút nhé.
+[480.87s - 483.55s] SPEAKER_00: Sao sao thầy hỏiuê là điểm tiếng Anh con có cao không?
+[484.61s - 486.86s] SPEAKER_01: Dạ, để miếng ăn cơm thì k.
+[487.28s - 488.49s] SPEAKER_01: Đa số là chín mươi mấy.
+[488.90s - 489.49s] SPEAKER_00: Khả.
+[490.32s - 497.19s] SPEAKER_00: thế thì đối vớiuê thì điểm như thế so với các môn khách của con thì có gọi là cao hơn không nhỉ hay là mức chung.
+[498.05s - 500.51s] SPEAKER_01: Dạ, cho bà cao hơn một số một.
+[500.88s - 502.08s] SPEAKER_00: Ờ  k hai được rồi.
+[502.50s - 508.86s] SPEAKER_00: Vậy thì mình cũng cái việc nó dễ thì chắc là nó cũng thể hiện thông qua cái điểm số con rất là cao rồi, đúng không nhờ.
+[509.28s - 513.27s] SPEAKER_00: Thế thì thêm một cải niệm nhé thế, cho thầy hỏi là quê có thích học giáo viên tiếng Anh của con không?
+[514.01s - 514.67s] SPEAKER_01: .
+[514.97s - 520.78s] SPEAKER_01: Dạ có một x sốu u viên thì con rất là hết, nhưng mà có một x số u viên thì d lại, không có h hơn sĩ.
+[520.29s - 522.04s] SPEAKER_00: À ơ kê được rồi.
+[522.48s - 524.47s] SPEAKER_00: Thế thì giáo viên hiện tại thì sao cũng giáo viên hiện tại?
+[525.10s - 528.29s] SPEAKER_00: Tất nhiên là không phải thầy đâu nhá, mà là giáo viên ở trên trường cấp hai của con đó.
+[529.50s - 532.30s] SPEAKER_01: Dạ giáo viên hiện tại của con là côiếu phó, coi như là
+[532.76s - 533.87s] SPEAKER_01: Con tao khấu hiểu học trk.
+[534.38s - 540.05s] SPEAKER_00: được rồi như vậy là cái việc mình thích giáo viên của mình cũng là một trong những cái.
+[540.45s - 543.41s] SPEAKER_00: Đ động lực giúp cho mình thích cái môn tiếng Anh hơn được với nh nhau..
+[543.57s - 548.82s] SPEAKER_00: Thồi, bây giờ thì mình có thêm hai cái câu nữa để mình có thể nói thêm vào cái câu trả lời của mình, làm cho câu trả lời của mình đó.
+[549.26s - 551.74s] SPEAKER_00: Nhiều hơn và nó đầy đủ hơn.
+[552.13s - 559.84s] SPEAKER_00: Đó là cái cụm đầu tiên là cụ tôi điểm môn tiếng Anh của tôi rất cao, đúng không nhờ và cụ thứ hai là tôi thích giáo viên dạy tiếng Anh của tôi.
+[560.42s - 562.27s] SPEAKER_00: Ờầy sẽ hỗ trợ con trong cái cầu này nhé.
+[562.61s - 564.45s] SPEAKER_00: Nhưng mà Khuê có thể nói được hai câu này không?
+[567.28s - 569.51s] SPEAKER_01: đầu tiên con đầu tiên thì con.
+[569.95s - 572.19s] SPEAKER_01: Con nghe con nói được không, nhưng mà con thứ hai con nói được.
+[572.68s - 573.46s] SPEAKER_00: K sâu.
+[573.97s - 577.14s] SPEAKER_00: TôiỜ thích giáo viên tiếng Anh của tôi có thể nói như thế nào nhở?
+[579.16s - 581.09s] SPEAKER_01: A Lơ lớp mày.
+[581.27s - 582.15s] SPEAKER_01: Thích chào.
+[582.91s - 584.45s] SPEAKER_01: Mai in lấy thích trợ.
+[584.77s - 587.53s] SPEAKER_00: O Hlo Mai.
+[587.91s - 594.18s] SPEAKER_00: S ở với câu đầu tiên thì thầy nghĩ là cái từ điểm số sẽ là một từ nó có thể làm một chút cái sự khó khăn đối với con đúng không nhỉ?
+[594.47s - 596.44s] SPEAKER_00: Không biết là con có biết từ điểm số.
+[597.73s - 600.36s] SPEAKER_00: Nếu như mà con không biết ấy thì trong cái bài kiểm tra của con.
+[601.00s - 604.88s] SPEAKER_00: Có sự để ý thì mình sẽ có thể nhìn thấy cái từ điểm số trong một vài cái chỗ đấy.
+[605.52s - 610.18s] SPEAKER_00: Ở đây thì thầy cho con một vài từ vựng là có nghĩa là điểm số nhé vàầy tin là những từ vự này còn đã như nhìn thế rồi.
+[610.59s - 612.58s] SPEAKER_00: Từ đầu tiên đó chính là từ hỏi.
+[614.35s - 615.51s] SPEAKER_00: Con nhìn thấy từ vượng này vào ạ chưa?
+[618.35s - 619.07s] SPEAKER_00: M kéo rồi.
+[619.95s - 620.46s] SPEAKER_00: Được rồi.
+[620.74s - 622.48s] SPEAKER_00: Ờ chưa lại hỏi conái chơi chưa kia không?
+[623.92s - 624.63s] SPEAKER_01: Dạ.
+[624.76s - 626.41s] SPEAKER_01: Cũng thích, nhưng mà không có chok.
+[626.95s - 630.92s] SPEAKER_00: , nếu như mà con có chơi những cái trò chơi tính điểm thì cái từ po này.
+[631.21s - 635.09s] SPEAKER_00: Cũng sẽ là một từ có thể xuất hiện trong những cái trò chơi tính điểm đó đấy.
+[635.39s - 636.86s] SPEAKER_00: Tời tiếp theo là sẽ là từ mọi.
+[637.38s - 639.26s] SPEAKER_00: Cái thưa này thì có nhìn thấy vào chưa nh nghiệp.
+[641.03s - 642.77s] SPEAKER_00: Đường này thì nghĩa là cũng có vẻ chưa đúng không?
+[645.55s - 646.65s] SPEAKER_00: kê được rồi.
+[646.77s - 654.36s] SPEAKER_00: Hai tử vự này thì nó sẽ xuất hiện nhiều hơn trong cái bài kiểm tra của con, đặc biệt là cái từ pi là một sự phổ biến nhất có thể.
+[654.88s - 659.66s] SPEAKER_00: từ thứ ba mà chúng ta có th thể một giới thiệu cho con trang bòt này được chúng ta từ cò.
+[659.94s - 662.31s] SPEAKER_00: Cái từ v vực này thì không biết là quê em như thế vào ở chưa nhỉ.
+[663.76s - 665.73s] SPEAKER_00: ờờ cô.
+[666.12s - 669.51s] SPEAKER_00: Cũng sẽ được thấy trong những cái trò chơi.
+[669.83s - 673.38s] SPEAKER_00: Hay là kể cả trong việc học tập thì cũng có thể nhìn thấy nữa đấy.
+[674.05s - 679.08s] SPEAKER_00: B con có thể dùng trong vự này để nói với cái điểm số con, và cả ba từ này đều là danh từ.
+[680.30s - 681.93s] SPEAKER_00: Sao vừa rồii con ngó nói là gì nhở?
+[682.12s - 684.31s] SPEAKER_00: Điểm tiếng Anh của tôi rất caoào đúng không nhờ.
+[684.87s - 687.82s] SPEAKER_00: Con có từ điểm x số rồi, cho thể hỏi là điểm tiếng Anh.
+[688.40s - 689.41s] SPEAKER_00: Mình sẽ nói như thế nào nhỉ?
+[692.87s - 693.93s] SPEAKER_01: ngày son.
+[694.40s - 696.24s] SPEAKER_00: Ôk, bờ kết l lịch sờ poi.
+[696.75s - 698.69s] SPEAKER_00: Chúng chúng ta đang có cái tử cao.
+[698.84s - 701.25s] SPEAKER_00: Ừ có v biết từ cao ở đây, chúng nó từ nào không?
+[701.64s - 702.72s] SPEAKER_01: ao cao.
+[703.97s - 705.52s] SPEAKER_00: Ờay từ.
+[706.00s - 707.63s] SPEAKER_00: Ngoài từ ra còn từ nào được không?
+[713.37s - 714.05s] SPEAKER_00: Vừa từ đứa.
+[714.13s - 716.37s] SPEAKER_00: Oầy nghĩ là rằng từ đấy chắc là nó còn cũng đã rồi.
+[717.25s - 718.25s] SPEAKER_00: C chế thứ hai.
+[718.32s - 719.46s] SPEAKER_00: , có nhưễ từ này chưa?
+[721.23s - 721.88s] SPEAKER_01: D, con.
+[722.28s - 724.46s] SPEAKER_00: Ok được rồi.
+[724.64s - 726.04s] SPEAKER_00: Từ hai và từ thỏ.
+[726.33s - 731.56s] SPEAKER_00: Anh nhưng mà tại sao là thầy lại muốn con nói như thầy cái từ hai chứ thầyăng không bỏ con sử dụng cái từ thọ?
+[732.03s - 738.41s] SPEAKER_00: Là bởi vì nếu như mà Khuê chắc làuê cũng đã biết rồi, đó là th thứ thọ dùng để miêu tả cái chiều cao của con người hay là con vật.
+[738.70s - 740.66s] SPEAKER_00: Đ chứ nó không để miêu tả cái.
+[740.88s - 741.69s] SPEAKER_00: Điểm số cao.
+[742.36s - 745.11s] SPEAKER_00: Còn thứ hai, nó sẽ miêu tả những cái trường hợp còn lại.
+[745.53s - 747.22s] SPEAKER_00: Những cái trường hợp mà từ too không miêu tả.
+[748.50s - 753.16s] SPEAKER_00: Mà sẽ miêu tả những cái ngọn núi ở những cái thứ rất là cao lớn, đồ sộ.
+[753.55s - 757.08s] SPEAKER_00: Hay là dùng để miêu tả những cái nhà cao tầng hay là những cái đồ vật.
+[757.48s - 759.42s] SPEAKER_00: Nó cao tầng ở cái kiểu tính thực tế.
+[759.96s - 761.92s] SPEAKER_00: Ờ thứ hai là, thứ hai này này.
+[762.17s - 763.86s] SPEAKER_00: Con để miêu tả những cái số liệu nữa.
+[764.37s - 768.86s] SPEAKER_00: Nếu như mà con có ờ không biết là con đơn học những cái biểu đồ trong địa lý nh.
+[771.22s - 775.07s] SPEAKER_00: Thì nếu như mà mô tả thì số liệu cao thấp trong biểu đồ trong cái địa lý ấy.
+[775.13s - 778.53s] SPEAKER_00: Thì sẽ sử dụng cái từ hai này chứ không thỏm đó.
+[778.76s - 787.03s] SPEAKER_00: Sữa chữ như thế, thứ hai này dùng để miêu tả cái số liệu và những cái điểm số trong cái trường hợp này cũng thuộc về cái số liệu đó cái đó lý do tại sao mà chúng ta sử cái từ hải.
+[787.74s - 790.79s] SPEAKER_00: Được rồi, con đã có từ cao rồi, có từ điểm tiếng Anh rồi.
+[791.25s - 792.26s] SPEAKER_00: Choầy hỏi là
+[792.41s - 793.31s] SPEAKER_00: Mình dịch cái c cô.
+[793.66s - 795.28s] SPEAKER_00: Điểm tiếng Anh của tôi cao như thế nào nhỉ?
+[796.92s - 799.23s] SPEAKER_01: Mai người s.
+[799.74s - 801.14s] SPEAKER_00: ai ghê.
+[801.63s - 802.59s] SPEAKER_00: Được rồi sớ.
+[802.83s - 804.43s] SPEAKER_00: Chúng hãy cùng chuyển sang cái câu hỏi tiếp theo nhé.
+[805.20s - 806.34s] SPEAKER_00: Ờ sầu tha.
+[807.06s - 810.72s] SPEAKER_00: Ei sắp da ra chì đồn ló.
+[812.92s - 814.65s] SPEAKER_01: Ai tương lai mar?
+[815.89s - 818.86s] SPEAKER_00: ay tai mì.
+[821.40s - 824.88s] SPEAKER_01: sinh hoen.
+[825.32s - 827.21s] SPEAKER_00: Ô kê ích rê hỏi.
+[827.72s - 828.31s] SPEAKER_00: Sợ.
+[828.83s - 832.56s] SPEAKER_00: Chúng chúng ta vẫn tiếp tục với những cái gợip ý của thầy trong cái phần này nhá.
+[832.95s - 835.80s] SPEAKER_00: Thế điểm toàn con so với các môn c khác thì theo con có cao hơn không?
+[836.90s - 839.61s] SPEAKER_01: Dạ cũng không cao hơn, nhưng mà nó cũng ở bất.
+[841.45s - 843.83s] SPEAKER_00: Ok được rồi, tức là nó cũng ở mức cào phạm đúng không?
+[844.32s - 846.45s] SPEAKER_00: Sao, Thế thì nói chuyện về giáo viên đi.
+[846.57s - 847.58s] SPEAKER_00: Giáo viên thì sao?
+[848.67s - 851.53s] SPEAKER_01: áuuyên thì con thấy là.
+[852.24s - 852.91s] SPEAKER_01: Ok.
+[853.92s - 858.26s] SPEAKER_00: O như vậy là chắc là sẽ không dùng được hai cái này để mô tả với việc mình không thích rồi.
+[858.53s - 862.16s] SPEAKER_00: Thế thôi,  cái đấy, chúng ta sẽ cùng nhau nói với vấn đề sau nhé.
+[862.78s - 863.88s] SPEAKER_00: Ờ ở đây.
+[864.00s - 866.80s] SPEAKER_00: Thì tại sao mà thầy lại muốn quê có thể nói được nhiều hơn nữa?
+[867.15s - 870.43s] SPEAKER_00: Thế, bởi vì chắc là con không biết rồi, đó là cái việc mà chúng ta nói được càng nhiều.
+[870.87s - 875.34s] SPEAKER_00: Thì nó đã thể hiện được là cái khả năng tiếng Anh của mình càng tốt.
+[875.91s - 880.10s] SPEAKER_00: ChỜo nên đón đi ra tại sao mà Thái đang muốn còn có thể nói được nhiều nhất có đẹp là như thế ?
+[880.26s - 882.22s] SPEAKER_00: Thế rồi, chúng nó cùng chuyển sang những cái chủ đề tiếp theo nhé.
+[882.76s - 885.14s] SPEAKER_00: Leto các vào m mua vị.
+[885.72s - 887.17s] SPEAKER_00: Di làoa trìnhvi.
+[887.84s - 888.47s] SPEAKER_01: 
+[889.75s - 890.56s] SPEAKER_00: Sao theo mình.
+[892.13s - 893.63s] SPEAKER_00: Khai ọ mưu vị.
+[893.80s - 894.73s] SPEAKER_00: Tôi diều lại.
+[896.23s - 897.04s] SPEAKER_01: Mai.
+[897.46s - 900.63s] SPEAKER_01: 
+[901.14s - 903.08s] SPEAKER_01: H rượ mù vị.
+[904.06s - 907.87s] SPEAKER_00: Oê không biết là khoê của ai đi xem phim không.
+[912.21s - 913.27s] SPEAKER_00: Ok được rồi.
+[913.53s - 918.50s] SPEAKER_00: V vào vài ngày tới thì thầy sẽ đi xem bộ phim rất là kinh dị trong thời gian gần đây.
+[919.04s - 923.41s] SPEAKER_00: Nếu nếu như mà con có xem thì con sẽ biết là có một bộ phim rất là nổi tiếng là bộ phim.
+[923.90s - 925.05s] SPEAKER_01: Dạ anh nu anh hai khôngầy?
+[925.32s - 928.04s] SPEAKER_00: Dạ sơ Ok dạ không.
+[926.47s - 927.90s] SPEAKER_01: í.
+[928.86s - 930.27s] SPEAKER_00: Cái không biết là con đã đi xem chưa?
+[931.01s - 936.61s] SPEAKER_01: Dạ, con chỉ mới xem phùng một thôi, bởi vì ở dưới chỗ con ở không có gặp chiếu phim nữa là con phải đâyịp khác conk.
+[937.25s - 946.75s] SPEAKER_00: Ờ ê được rồiầy nghĩ là có lẽ là nên đợi những cái khi mà những cáiwép lậu đăng lên thì mình mới có cơợi được xem đúng không?  kê, đứng đây Ờ.
+[947.07s - 948.96s] SPEAKER_00: Thầy xem cái phim này là bởi vì.
+[949.28s - 952.54s] SPEAKER_00: Mấy ngày từ sẽ là sinh nhật của thầy, cho nên là thầy đã chọn nhưng đó kế.
+[953.08s - 953.97s] SPEAKER_00: sao?
+[954.73s - 956.44s] SPEAKER_00: sơ theo.
+[956.78s - 958.65s] SPEAKER_00: Gắt  yờ phây rin phin.
+[959.78s - 962.41s] SPEAKER_01: Mai cái phim.
+[963.86s - 964.69s] SPEAKER_01: T.
+[965.52s - 966.18s] SPEAKER_01: Lu.
+[967.78s - 968.50s] SPEAKER_00: Ở cái.
+[968.98s - 970.07s] SPEAKER_00: Sờeo nỉ.
+[970.14s - 971.49s] SPEAKER_00: in rít mô.
+[972.25s - 972.76s] SPEAKER_00: Phương.
+[972.86s - 974.75s] SPEAKER_00: dolây rít.
+[975.10s - 975.76s] SPEAKER_00: Khéo thở.
+[977.03s - 977.94s] SPEAKER_01: Ờ
+[978.80s - 980.49s] SPEAKER_01: Màyay kh.
+[982.41s - 984.92s] SPEAKER_01: H ơi, cho câu hỏi là cái trời là các hàng nhân vật không thể.
+[985.45s - 986.19s] SPEAKER_00: D?
+[987.67s - 990.51s] SPEAKER_01: Nhưng mà con biết từ cái ra thờ, con hiểu nhưng mà.
+[991.49s - 994.80s] SPEAKER_01: Con muốn nói gì cái nhân vật mà con không có biết nghĩa nhân vật.
+[995.28s - 1000.68s] SPEAKER_00: Con con có thể mô tả cho thấy cái nhân vật đấy là ai không? Và cái cô nữ tu đấy hay là ai?
+[1001.11s - 1002.29s] SPEAKER_01: Dẹp là cái cô của tôi.
+[1002.84s - 1004.09s] SPEAKER_01: ưa ổun.
+[1004.62s - 1006.42s] SPEAKER_00: ê, con chí nói từ Tấn Anh.
+[1007.45s - 1009.56s] SPEAKER_00: Oê, đó chính là từ giờ ăn đó.
+[1010.25s - 1012.13s] SPEAKER_00: C sĩ là từ Anh. C chính là từ Anh.
+[1012.29s - 1013.66s] SPEAKER_00: Đó chính là b nữa tuẩm khách.
+[1014.10s - 1022.40s] SPEAKER_00: Ờ thế như thầy nhớ không thầy thì cũng khá lâu rồi,ầy không đ động vào cái chủ đề này, nhưng mà nếu như mà thầy nhớ không nhầm thì từ có nghĩa làộc sư.
+[1022.88s - 1026.22s] SPEAKER_00: Là cái người cái ông đi cùng với cái cô đó đó đấy.
+[1027.11s - 1031.26s] SPEAKER_00: Còn cái tựa đè là gì nhở ác quỷ ma sơ đúng không nhờ?
+[1031.92s - 1036.21s] SPEAKER_00: Thì thực ra thì người ta đấy là cái cách dịch của chúng ta sang tiếng Việt mà thôi.
+[1036.78s - 1040.44s] SPEAKER_00: Còn có thể con có thể thấy là trong cái câu này, trong cái từ giờ ăn.
+[1040.70s - 1047.36s] SPEAKER_00: Thì không hề có cái từ ác quỷ đúng không nhở? Không hề có từ từ tevồ hay là  yvồ đúng không?, cho nên là mình có thể hiểu là
+[1047.66s - 1053.84s] SPEAKER_00: Đấy là cái cách dịch của người làm phim khi mà họ truyền thẻ sang cái tiếng Việt nó như thế đó.
+[1055.75s - 1061.32s] SPEAKER_00: ThỜ thầy có một cái lời khuyên để con có thể mình có thể hiểu rõ hơn về cái việc dịch từ tiếngê t Anh.
+[1061.72s - 1066.90s] SPEAKER_00: Đấy là trong khi mà chúng ta dịch từ tiếngạch sân đường Anh thì có thể là có sẽ hay là dịch từ tiếng Anh xem Việt.
+[1067.34s - 1072.79s] SPEAKER_00: Thì có thể làuê sẽ nhìn thấy một vài từ không có trong cái bản dịch tiếng Việt hay là không có trong cái bản dịch tiếng Anh.
+[1073.50s - 1083.57s] SPEAKER_00: Ờ nhưng mà chúng ta có thể hiểu là trong những cái bối cảnh cụ thể thì chúng ta sẽ cần phải dịch theo cái bối cảnh thay vì là dịch theo từng từ một. trong trường hợp này thì chúng ta có thể thấy là
+[1083.73s - 1085.73s] SPEAKER_00: Cái bộ phim này đang nói đến.
+[1086.14s - 1092.64s] SPEAKER_00: Con ác quỷ đúng không? Va lát đúng không nhỉ? cho nên là chúng ta sẽ cần phải nói là ác quỷ ma xơ chứ thể nói là ma dơ.
+[1094.78s - 1095.81s] SPEAKER_00: Xao theo mình.
+[1096.21s - 1096.94s] SPEAKER_00: Hài.
+[1096.96s - 1098.53s] SPEAKER_00: Đuu laiần.
+[1099.67s - 1102.26s] SPEAKER_00: Ý thầy là cái cái nhân vật đó đấy chứ không phải bộ như đấy nha.
+[1104.20s - 1105.31s] SPEAKER_01: coi.
+[1105.83s - 1108.16s] SPEAKER_01: Ai trênt.
+[1108.72s - 1110.39s] SPEAKER_01: in è.
+[1112.03s - 1112.95s] SPEAKER_01: Nếu chị.
+[1113.75s - 1118.13s] SPEAKER_00: Oongô có mạnh mẽ không?
+[1120.67s - 1124.68s] SPEAKER_00: ê và chiếc năng cô ấy cũng rất là pê, rất là dũng cảm, đúng không nh.
+[1125.09s - 1128.45s] SPEAKER_00: Một từ nữa đây là từ dũng cảm.
+[1129.22s - 1134.49s] SPEAKER_00: Ờ hôm nay thầy cũng muốn cho con thêm một từ nữa, Ờ từ này thì có lẽ là con sẽ nhìn thấy ít hơn.
+[1134.84s - 1140.26s] SPEAKER_00: Nhưng mà nếu như bà con còn xem phim bảo vậtụ đẹp bằng tiếng Anh, đặc biệt là trong cái bộ phim nó mang tính kiểu.
+[1141.64s - 1144.19s] SPEAKER_00: Thì chúng ta sẽ thấy rất là nhiều cái từ này đó chính là từ.
+[1144.86s - 1146.43s] SPEAKER_00: Ởác r phải.
+[1147.04s - 1147.87s] SPEAKER_00: Xác r phải.
+[1148.36s - 1150.37s] SPEAKER_00: từ vượng này là có nghĩa là hy sinh.
+[1150.65s - 1151.65s] SPEAKER_00: Hy sinh có.
+[1151.97s - 1154.28s] SPEAKER_00: Ờ có cái tính.
+[1155.34s - 1164.63s] SPEAKER_00: Có cái lòng luôn luôn sẵnàng hi sinh thì người khác nữa thì chúng ta sẽ sử dụng kể từa quyefi này, là một từ rất là hay, nếu như mà con có xem cái bộ phim mà liên quan đến cái vấn đề này.
+[1165.06s - 1165.82s] SPEAKER_00: ế rồi.
+[1166.23s - 1170.55s] SPEAKER_00: Th nghĩ là chúng ta đã chuyển sang cái chủ đề cuối cùng trước khi chúng ta đến với phạt nhận xét nhé đấy.
+[1170.85s - 1174.28s] SPEAKER_00: Sao, nhưng mà trước đấy thì cho thầy hỏi là con còn muốn thầy hỏi về chủ đề nào không?
+[1174.67s - 1176.39s] SPEAKER_00: Quê quê có tự tin về chủ đề nào không?
+[1182.46s - 1184.89s] SPEAKER_01: Về chủ đề du lịch luôn thầy như con thích như vậy.
+[1186.06s - 1188.42s] SPEAKER_00: Ờ o kê, o kê rồi.
+[1188.76s - 1190.41s] SPEAKER_00: Ờ nhân vật đúng không nh ạ.
+[1193.13s - 1197.09s] SPEAKER_00: như mà thầy con đang muốn hòi hỏi về về cái gì của nhân vật?
+[1206.09s - 1212.57s] SPEAKER_00: ê cái ph phần này có lẽ làơi khó một chút, đúng không? Chúng ta sẽ nói về cái ph phần này, nếu như mà có cơ hội thì cho có thể là phần này trong nhữngiểu buổi học.
+[1212.96s - 1214.31s] SPEAKER_00: Chính thức tiếp theo nhé.
+[1214.71s - 1221.00s] SPEAKER_00: Sao, được rồi, chúng ta cùng chuyển sang cái chủ đề cuối cùng nhé. Ừ Thầy nghĩ đây xem là một chủ đề nhẹ hơn một chút, đó chính là chủ đề con vật đấy.
+[1221.38s - 1222.96s] SPEAKER_00: Sợ létó báo AÁâm m một.
+[1223.54s - 1224.38s] SPEAKER_00: Ờ theo mày.
+[1225.16s - 1227.20s] SPEAKER_00: Wu.
+[1228.45s - 1230.18s] SPEAKER_01: i là chó.
+[1231.53s - 1232.23s] SPEAKER_00: Ok.
+[1232.56s - 1233.44s] SPEAKER_00: Sao sao?
+[1234.23s - 1235.84s] SPEAKER_00: Đu diêu h hả ởó.
+[1236.18s - 1237.74s] SPEAKER_00: hátinô hót.
+[1244.82s - 1247.43s] SPEAKER_01: iao ai ai hay.
+[1250.33s - 1251.08s] SPEAKER_01: Cóó cho.
+[1254.55s - 1255.60s] SPEAKER_01: T trót.
+[1256.49s - 1257.07s] SPEAKER_01: Đ
+[1257.51s - 1261.47s] SPEAKER_00: kê tai  kê oi đi bảo t.
+[1261.64s - 1264.91s] SPEAKER_00: Sờao mi ờoaiiaió.
+[1265.98s - 1267.82s] SPEAKER_01: Bi s coiien.
+[1271.02s - 1272.66s] SPEAKER_01: Các ri.
+[1274.01s - 1276.24s] SPEAKER_00: ắc in ki ởk.
+[1276.71s - 1278.92s] SPEAKER_00: Ờ hôm nay ờ, có lẽ là hôm nay là
+[1279.29s - 1283.71s] SPEAKER_00: Con có thể thấy là mình đang dùng một chút là hơi nhiều một chút cái từ ki không nhỏ.
+[1284.76s - 1292.37s] SPEAKER_00: Phần nhận xét thì cho con một vài từ nữa, nó cũng có nghĩa là giống như cái từ k, nhưng mà nó sẽ có thể thay thế được để con có thể dùng được linh hoạt hơn nữa.
+[1292.94s - 1293.82s] SPEAKER_00: S treo mình.
+[1294.23s - 1298.70s] SPEAKER_00: L lét dốc của b vào két sơiu hátờ két  đờ Phuớ.
+[1300.11s - 1302.29s] SPEAKER_01: N vịơi.
+[1302.38s - 1304.87s] SPEAKER_01: Mai trái sẽ mời đôi vai khảo.
+[1305.36s - 1306.54s] SPEAKER_00: Ờ o kê!
+[1306.70s - 1309.09s] SPEAKER_00: Sao Pein dai k.
+[1311.15s - 1318.14s] SPEAKER_00: B vì cái thời lượng của chúng c ta còn khá là nhiều cho nênầy ra hỏi có thêm một chủ đề ngắn nữa nhé, cho cập vào.
+[1318.69s - 1319.81s] SPEAKER_00: Di r inh búck.
+[1320.92s - 1321.55s] SPEAKER_01: 
+[1323.62s - 1324.18s] SPEAKER_00: Hả.
+[1324.35s - 1327.65s] SPEAKER_00: Seo mình Wi ậplosù lại.
+[1328.63s - 1329.39s] SPEAKER_01: H
+[1329.88s - 1330.52s] SPEAKER_01: ?
+[1334.88s - 1335.92s] SPEAKER_01: Chiêu l lần.
+[1336.60s - 1337.80s] SPEAKER_00: ê.
+[1337.90s - 1339.91s] SPEAKER_00: Hế này cho trẻ em đúng không nhỉ.
+[1341.14s - 1343.16s] SPEAKER_00: Chúng ta gọi cái sách đấy là gọi là gì nhở?
+[1343.38s - 1343.89s] SPEAKER_00: Con còn nhược không?
+[1346.81s - 1347.94s] SPEAKER_00: Gọi là chuyện sang được không nhỉ?
+[1350.33s - 1351.43s] SPEAKER_00: Oê.
+[1351.94s - 1354.03s] SPEAKER_00: Ờ chúng ta thấy nghĩ là có một từ này.
+[1354.23s - 1356.46s] SPEAKER_00: Mâyy là con cũng có thể đã học rồi.
+[1356.97s - 1358.87s] SPEAKER_00: Đó chính là cục từ kho mạch.
+[1359.30s - 1360.78s] SPEAKER_00: Em chắc là con nhìn thấy rồi, đúng không?
+[1361.29s - 1363.62s] SPEAKER_00: sinh làuyện tranh đó hiện tại.
+[1364.10s - 1367.56s] SPEAKER_00: Không không phải là từ stori đâu nhá, từ stori là sẽ khác về là từomi bok.
+[1368.07s - 1371.77s] SPEAKER_00: Đấy là, bởi vì thứ nhất là từ story nó có thể là một câu chuyện bằng lời nói này này.
+[1372.05s - 1375.71s] SPEAKER_00: Cái có chút có thể là một câu chuyện bằngờ giấy viết.
+[1376.02s - 1377.69s] SPEAKER_00: Nhưng mà đa phần cái cái từ cáiu.
+[1378.01s - 1382.79s] SPEAKER_00: Cái so ri thì nó không có tr chuyện tranh, nó không có tranh giống như là cái com mẹo này.
+[1383.36s - 1384.20s] SPEAKER_00: Sợ theo mình.
+[1384.66s - 1387.02s] SPEAKER_00: Gát y do phây ríto mi bồ.
+[1388.08s - 1388.64s] SPEAKER_01: Ừ.
+[1389.70s - 1391.68s] SPEAKER_01: MaiFeic Coiút.
+[1392.91s - 1393.74s] SPEAKER_01: r m.
+[1394.14s - 1395.63s] SPEAKER_00: Ok.
+[1395.96s - 1401.84s] SPEAKER_00: R mười bạn thì chắc là cũng phải đến tám bạn thích mòn đấy, Cũng hai bạn có lại thích c cơ ăn thôi.
+[1402.16s - 1403.29s] SPEAKER_00: cây sau theo.
+[1404.12s - 1405.01s] SPEAKER_00: Inỏi.
+[1405.70s - 1408.40s] SPEAKER_00: H io phây vít ce ríchở.
+[1409.31s - 1412.94s] SPEAKER_01: Mai Ce ríchờ in đô g mon đô m.
+[1413.58s - 1417.35s] SPEAKER_00: O theoai r m.
+[1419.08s - 1420.89s] SPEAKER_01: iơi anh xin.
+[1421.43s - 1422.19s] SPEAKER_01: Tôi mau.
+[1423.17s - 1425.18s] SPEAKER_01: Rétiin inăng.
+[1426.37s - 1427.81s] SPEAKER_00: Ờ  Ô kê.
+[1428.08s - 1428.85s] SPEAKER_00: Sâu.
+[1429.06s - 1434.90s] SPEAKER_00: tát  X enờ tét đấy là tất cả những gìáng trong cái buổi tét này của chúng ta rồi.
+[1435.23s - 1442.17s] SPEAKER_00: Bây giờ thì chúng ta hãy cùng chuyển raản nhận xét nhé nhận xét này thì thầy sẽ nhận xét họ ởa trên ba t trình giá.
+[1442.49s - 1446.17s] SPEAKER_00: Sẽ này một chút nhé thì sẽ xem màn hình để chúng ta có thể theo dõi kỹ hơn đấy.
+[1447.15s - 1452.06s] SPEAKER_00: , nhưng mà trước khi chúng ta đến phần nữa r dễ cho hỏi là quê cảm nhận như thế nào với những câu hỏi của thành ngày hôm nay?
+[1452.38s - 1453.26s] SPEAKER_00: Nó có khói không?
+[1453.20s - 1454.00s] SPEAKER_01: Hè nói.
+[1453.53s - 1454.96s] SPEAKER_00: Hay là nó cũng vừa sức đu con.
+[1455.52s - 1456.88s] SPEAKER_01: Nguyễn câu Hải có hàng.
+[1457.14s - 1458.22s] SPEAKER_01: T khấu mẹ.
+[1458.42s - 1459.20s] SPEAKER_01: Với lại.
+[1459.84s - 1460.90s] SPEAKER_01: C cho con heo.
+[1461.41s - 1462.22s] SPEAKER_01: Em muốn từ vọng.
+[1463.03s - 1464.46s] SPEAKER_00: ê được rồi.
+[1465.05s - 1473.54s] SPEAKER_00: Ờ phần nh nhận xét này thì thầy rất là mong là thầy có thể choắn thêm những cái tử vựng mới nữa có thể áp dụng được trong cái phần nóiầy không có thể nói được nhiều hơn nữa ở đấy.
+[1474.01s - 1476.07s] SPEAKER_00: Thếỏi, chúng ta cùng chuyển sang cái phần nhận xét nhé.
+[1476.51s - 1478.37s] SPEAKER_00: Như thể nào nói thì chúng ta sẽ chuyển sang.
+[1478.82s - 1482.03s] SPEAKER_00: Chúng ta sẽ có ba cái tiêu chí để thể đánh giá cho cái phần nhà sức này.
+[1482.38s - 1484.64s] SPEAKER_00: Nhưng mà trước khi đấy thì thầy có một cái lời muốn nói đấy chính là
+[1485.03s - 1488.10s] SPEAKER_00: Ng ngày hôm nay, thì thầy sẽ không chấm điểm cái bài tét này của con.
+[1488.34s - 1490.72s] SPEAKER_00: Vàầy sẽ chỉ đưa ra lời nhận xét và đánh giá mà thôi.
+[1491.14s - 1496.61s] SPEAKER_00: Thầy cũng sẽ gửi lại cái bả bản đánh giá chi tiết cho bên trường để bên trườngử lại cho con đấy mà con cóu cầu cần.
+[1497.30s - 1503.04s] SPEAKER_00: Đúng rồi, chúng ta sẽ cùng đến với cả cái tiêu chí đầu tiên, chỉ là tiêu chí phần phát ẩm của Nam Xiừn.
+[1503.69s - 1510.65s] SPEAKER_00: Th thầy có thể thấy phát âm của con con đã hình thành được một cái phát âm khá là ổn, và con đã có ngữ điệu cơ bản trong cái phần trả lời của mình.
+[1511.05s - 1518.48s] SPEAKER_00: Và đấy là một cái phần mà thể khá là tốt. đấy là một cái thầy có thể hiểu đấy là một cái phần mà kh thuộc là khá là ổn khi mà trước kia.
+[1518.83s - 1523.51s] SPEAKER_00: Con đã có cái cơ hội được luyện tập và nói với cả một người nước ngoài vàầy có thể cảm nhận được là
+[1523.81s - 1526.80s] SPEAKER_00: Cái giọng của con nó đang có thiên hướng.
+[1527.37s - 1533.39s] SPEAKER_00: Đang có khá nhiều tiềm năng trong việc trả lời và có thể phát âm được theo cái giọng điệu của người bản xứ.
+[1534.00s - 1536.92s] SPEAKER_00: ThỜeo như thầy được biết thì người Philippines
+[1537.77s - 1543.20s] SPEAKER_00: Sẽ có cái thiên hướng nói theo một cái chất giọng tương đương tương đối r giống với cả người Mỹ.
+[1543.57s - 1549.90s] SPEAKER_00: nếu như mà con có xem phim hình như nhớ không nhầm vào bộ phim dân ăn này cũng là của Mỹ thì phải hay là của.
+[1550.40s - 1553.19s] SPEAKER_00: Của anh thì sao lại thấy không nhớ nữa, nhưng mà hình như là của Mỹ?
+[1553.49s - 1557.71s] SPEAKER_00: Thì nếu như mà con có lắng nghe thì cái chất giọng của họ sẽ là giọng của người Mỹ.
+[1558.05s - 1564.95s] SPEAKER_00: Giọng của người Nguyễn Mỹ Mỹ về giọng của người Anh sẽ là hai cái giọng phổ biến nhất trên thế giới nhé, còn những cái giọng khác thì nó sẽ là lai tạc giữa hai cái giọng này hoặc vào.
+[1565.27s - 1568.02s] SPEAKER_00: Có một chút tịch tác động của một trong hai cái dòng này.
+[1569.03s - 1571.45s] SPEAKER_00: Nhưng mà cái điểm khác biệt của hai giọng này là chỗ nào?
+[1572.11s - 1573.88s] SPEAKER_00: Thầy hãy cho con một vài điểm cấp biệt nhé.
+[1574.42s - 1583.43s] SPEAKER_00: Để con có thể nhìn hình dung dễ hơn, đấy là thường thì các cô ở trên lớp, các con các cô đọc cho các con thì đấy sẽ là cái giọng anh anh, cái cái giọng của người anh chuẩn.
+[1586.31s - 1588.12s] SPEAKER_00: Cái cách mà các cô đọc cho các con.
+[1588.34s - 1589.35s] SPEAKER_00: Nó không phải là giọng anh.
+[1590.69s - 1595.01s] SPEAKER_00: Ờ có lẽ phần này cũng sẽ hơi khó hiểu một chút như là thầy giải thích kỹ hơn, đấy là.
+[1595.34s - 1598.26s] SPEAKER_00: Mặc dù là các kho sẽ được học theo phiên theo cái.
+[1598.57s - 1599.65s] SPEAKER_00: Phiên âm của người anh.
+[1601.32s - 1605.20s] SPEAKER_00: CácỜ cô gái của có con sẽ không có cái chấtọng đấy, đấy là bởi vì
+[1605.64s - 1608.29s] SPEAKER_00: Giọng của người anh rất là khó nghe và rất là khó học theo.
+[1608.49s - 1612.89s] SPEAKER_00: , cho nên là những người dạy của chúng ta đa phần là sẽ không có đủ cái trình độ chuyên môn như thế.
+[1613.26s - 1616.77s] SPEAKER_00: Rất là ít người có đủ về trình độ chuyên môn để có thể nói được cái giọng anh.
+[1617.11s - 1624.22s] SPEAKER_00: Tất nhiên là ít ở đây không phải là chỉ có vài người đâu nhé, mà sẽ có cũng có khá là nhiều người, nhưng mà so với số lượng người nói giọng Mỹ thì nó sẽ không nhiều bằng.
+[1624.94s - 1632.32s] SPEAKER_00: Ờ ở đây thì sự khác biệt ở đây phải sẽ cho một cái ví dụ đó chính là từ ờ pít sờ, từ pít sờ ở đây nó có nghĩa là.
+[1633.23s - 1635.51s] SPEAKER_00: Ờ để nói như thế nào nhỉ? Ok nó có nghĩa là
+[1635.78s - 1640.06s] SPEAKER_00: Hơi kiểu đằng đắng một tí đắng, nó tóm lại nó là bị cái đám ở đấy.
+[1640.35s - 1640.85s] SPEAKER_00: Thìa ở đây.
+[1641.24s - 1646.00s] SPEAKER_00: Thược tít sở ở đây, nếu như mà các bạn đọc ở trên lớp nó sẽ đọc, các bạn sẽ đọc là tít rồi đúng không nhờ.
+[1646.20s - 1647.71s] SPEAKER_00: Đấy sẽ là cái cách đọc của giọng anh.
+[1648.13s - 1652.97s] SPEAKER_00: Nhưng khi mà chúng ta chuyển sang lao rộng Mỹ thì chúng ta đổi thành từ pítờ thành từ bờ.
+[1654.32s - 1656.35s] SPEAKER_00: Th, tức là thay vì chúng đang đọc chữ t.
+[1656.84s - 1660.90s] SPEAKER_00: Chúng ta sẽ đọc sang chữ đ  ở đấy nó thì đấy là một cái.
+[1661.21s - 1668.93s] SPEAKER_00: Phần cơ bản nhất và một cái sự khác biệt lớn nhất của người anh và người Mỹ trong cái cách đọc đó chính là thường những cái chữ tê của họ sẽ chuyển thành chữ.
+[1669.41s - 1676.88s] SPEAKER_00: Còn một từ một vài từ nữa, con có thể nhìn thấy rất là nhiều đó chỉ là từ kh phát sinh này thì chúng ta sẽ không đọc khát sinh, nhưng mà chúng ta đọcỹ, mà chúng ta đọc là kha đình.
+[1678.87s - 1679.73s] SPEAKER_00: đó.
+[1680.24s - 1686.99s] SPEAKER_00: Thì đấy là một trong những cái phần cấp bản nhất. Ờ còn những cái phần nữa thì hôm nayầy sẽ không giới thiệu quá là nhiều, mà thầy chỉ cho con biết một vài cái chữ.
+[1687.40s - 1692.49s] SPEAKER_00: Cái phần thay đổi giọng như thế này thôi, để còn có thể hình dung trên thế giới này thì có những cái cách đọc như thế nào?
+[1692.69s - 1697.27s] SPEAKER_00: Và cách đọc như thế nào sẽ là cách đọc nó chuẩn xác hơn, nếu như mà con muốn theo một cái giọng nhất định và cái.
+[1698.01s - 1704.79s] SPEAKER_00: ở đây thì có lẽ là con đang chưa nghĩ đến cái vấn đề này, đúng không nh?,ắc là mình đang chưa nghĩ đến cái việc là mình sẽ theo một cái chất giọng nào, đúng không?
+[1705.28s - 1706.65s] SPEAKER_00: Vậy thì thầy có một cái .
+[1707.09s - 1715.83s] SPEAKER_00: Một cái lời khuyên, một cái phương pháp mà thầy muốn chia sẻ ra con với con, nếu như mà con có nhu cầu cần thì mình có thể thử chuyển sang cái chủ đề đó hay là chuyển sang cái giọng điệu đó.
+[1716.44s - 1719.44s] SPEAKER_00: Ở đây thì chắc là con, nếu như con có xem ở trên mạng.
+[1719.80s - 1720.76s] SPEAKER_00: Thì con.
+[1720.99s - 1722.41s] SPEAKER_00: Mình có xem những cái.
+[1722.85s - 1726.43s] SPEAKER_00: Vi đê trên ouTúp về việc dạy tiếng nhanh thì mình có thể nhìn thấy cái từ này.
+[1726.90s - 1728.15s] SPEAKER_00: Đó chính là từ  sen.
+[1728.76s - 1730.63s] SPEAKER_00: không biết là có nhìn thấy tư vực này bao giờ chưa.
+[1730.83s - 1731.37s] SPEAKER_01: 
+[1732.06s - 1735.71s] SPEAKER_00: Ừ, đây được gọi là cái giọng điệu đó, nếu như mà chúng ta có một cái chất giọng anh.
+[1736.37s - 1739.19s] SPEAKER_00: Anh anh thì chúng ta sẽ gọi làrit acen.
+[1739.49s - 1740.77s] SPEAKER_00: Cái tức là giọng của người Anh.
+[1740.92s - 1743.88s] SPEAKER_00: Hay là nếu như chúng ta có giọng của người Mỹ thì chúng ta sẽ có cái giọng đó là.
+[1744.37s - 1747.35s] SPEAKER_00: Amec Acen đó thì đấy là cái.
+[1747.54s - 1753.51s] SPEAKER_00: Cái kiểu giọng của chúng ta ở đây thì nếu như mà con muốn học theo giọng của người anh hay là người Mỹ.
+[1753.87s - 1755.42s] SPEAKER_00: Thìầy có một cái.
+[1755.81s - 1758.49s] SPEAKER_00: Phương pháp cho con đấy là một phương pháp thầy gọi tên nó.
+[1759.08s - 1761.61s] SPEAKER_00: , thực ra không phải là thầy là người đầu tiên gọi tên nó, nhưng mà
+[1762.02s - 1764.14s] SPEAKER_00: Các nhà khoa học đã gọi tên nó ở đây là chính là.
+[1764.87s - 1766.08s] SPEAKER_00: Phương pháp saồ ti.
+[1767.27s - 1770.81s] SPEAKER_00: Ở đây, phương pháp traơ Bích K kinh này thì hãy giải định một chút nó có nghĩa là phương pháp.
+[1771.33s - 1772.40s] SPEAKER_00: Ờ lặp lại.
+[1773.24s - 1776.53s] SPEAKER_00: Phần nói đấy tóm lại là con sẽ nhái theo.
+[1777.04s - 1779.33s] SPEAKER_00: Bắt chước theo cái phần nói của người bản xứ.
+[1779.70s - 1780.33s] SPEAKER_00: Tức là sao?
+[1780.43s - 1781.15s] SPEAKER_00: Tức là họ.
+[1781.64s - 1791.53s] SPEAKER_00: Âm một từ thì con sẽ phát âm lại với cái giọng điệu và cái chất giọng có sẽ bắt chước hoàn toàn theo giống như họ, và cái và mình s sẽ cố gắng bắt chước cố gắng giống một trăm phần trăm giống như họ.
+[1791.77s - 1794.59s] SPEAKER_00: Tất nhiên rồi, mình sẽ không thể nào mà bắt chước khoản toàn giống như họ được, bởi vì
+[1794.97s - 1795.53s] SPEAKER_00: Ờ
+[1795.63s - 1800.61s] SPEAKER_00: Nó có rất là nhiều yếu tố ảnh hưởng nữa, đúng không? Cái chất giọng thuần tự nhiên của chúng ta nó sẽ ảnh hưởng rất là nhiều.
+[1800.80s - 1802.67s] SPEAKER_00: Nhưng khi mà con bắt chước nhiều rồi.
+[1803.09s - 1806.03s] SPEAKER_00: Thì con sẽ có được một cái chất giọng na ná giống như họ.
+[1806.21s - 1811.24s] SPEAKER_00: Đ đấy là một cái phần rất là hữu ích để các bạn có được một cái chấtọng hay.
+[1811.56s - 1816.05s] SPEAKER_00: Con mà thấy là người nước ngoài, người ta nói rất là nhanh, đúng không nhỉ? Người người ta nói một cái tốc độ rất là nhanh và rất là.
+[1816.44s - 1822.19s] SPEAKER_00: Rất là kiểu nghe rất là dễ dàng, đúng không? Nhưng mà chúng ta đọc thì chúng ta cảm thấy là chúng ta đọc lúc đó là hơi khó khăn hơn.
+[1822.55s - 1826.87s] SPEAKER_00: Nhưng làm thế nào để chúng ta có thể đọc dễ dàng hơn đấy chính là cái Chơ Biking này?
+[1828.49s - 1830.36s] SPEAKER_00: Đấy là khi có có thể tưởng tượng là
+[1830.77s - 1833.72s] SPEAKER_00: Ở trên lớp ấy, các cô thường dạy con ạ các bạn đọc cho cô từ này.
+[1834.43s - 1837.28s] SPEAKER_00: các bạn sẽ đọc theo cái cô giáo ở trên bảng đúng không nhờ?
+[1837.72s - 1840.18s] SPEAKER_00: Và con có thể thấy là khi mà con lắng nghe cô để đọc.
+[1840.62s - 1841.60s] SPEAKER_00: Và con được đọc lại.
+[1842.31s - 1843.96s] SPEAKER_00: Thì nó khá là giống nhau đúng không?
+[1844.20s - 1845.67s] SPEAKER_00: Nó khá là giống nhau đó.
+[1845.78s - 1847.96s] SPEAKER_00: Vậy thì cái c phương pháp này áp dụng chính cái điều đấy.
+[1848.40s - 1849.16s] SPEAKER_00: Để con có thể.
+[1849.33s - 1851.94s] SPEAKER_00: Để não bộ con có thể nhớ được cái cách đọc.
+[1852.86s - 1853.40s] SPEAKER_00: Người
+[1853.60s - 1857.23s] SPEAKER_00: Đã nói trong đi được và cái não bộ con sẽ tự động nhớ cáiọng đó, nhưng
+[1857.58s - 1859.25s] SPEAKER_00: Điều này sẽ yêu cầu con phải rất là chăm chỉ.
+[1860.30s - 1866.83s] SPEAKER_00: Thì ở đây thì cóờ nếu như mà con có đầy đủ lắphop và điện thoại hay là con khó nhiều điện thoại ở nhà thì còn có thể.
+[1867.17s - 1868.16s] SPEAKER_00: Sử dụng bằng cách là
+[1868.45s - 1869.71s] SPEAKER_00: Mình có thể đeoai nghe.
+[1870.24s - 1873.04s] SPEAKER_00: Và mình hãy xem một cái video bất kỳ của người mà tư trên YouTube.
+[1873.51s - 1876.13s] SPEAKER_00: Hãy nhớ là hãy bật một cái video là để cỏ vụ đè lên cho thành nhá.
+[1876.51s - 1879.43s] SPEAKER_00: Chọn một cái diễn viên hay là chọn một cái người nào đấy mà con rất là yêu thích.
+[1879.79s - 1887.23s] SPEAKER_00: Là là một người nước ngoài vàầy khuyên là một, nên là một người còn người phụ nữ nhé, cái cần người đàn ông thì chúng ta sẽ còn lại bắt chước theo rồi đúng không?
+[1887.75s - 1889.04s] SPEAKER_00: Thì đấy, khi mà chúng ta
+[1889.22s - 1895.40s] SPEAKER_00: Khi mà họ nói hết một câu hay là họ nói hết được một khoảng đoạn nào đấy thì con lại dừng cái đoạn đấy đấy.
+[1895.70s - 1896.81s] SPEAKER_00: Và đọc lại thầy.
+[1897.25s - 1899.01s] SPEAKER_00: Cái đoạn mà người ta vừa mới nói.
+[1899.04s - 1899.55s] SPEAKER_00: .
+[1900.14s - 1902.97s] SPEAKER_00: Nhưầy đã nói rồi, khi mà con nói, khi mà con lắng nghe người ta.
+[1903.63s - 1906.03s] SPEAKER_00: Ờì có thể ngay lập tức nói lại cái câu của người ta luôn.
+[1906.43s - 1912.22s] SPEAKER_00: Nhưng mà nếu như con đẻ khoảng độ ba mươi giây hay là đẻ khoảng một phút thôi thì thầy tin là con sẽ không nhớ được là người ta nói gì nữa.
+[1914.23s - 1916.41s] SPEAKER_00: ThỜ thầy không cần con quan tâm đến từ vựng.
+[1916.79s - 1919.87s] SPEAKER_00: Trong video đó, thầy chỉ cần còn cứ đọc theo, đọc theo và đọc theo thôi.
+[1920.93s - 1926.55s] SPEAKER_00: Và thầy cần con làm cho thầy mỗi ngày, nếu như mà được ấy thì con có thể thử làm cho thầy mỗi ngày khoảng từ mười lăm cho đến hai mươi phút.
+[1926.68s - 1931.00s] SPEAKER_00: Tất nhiên rồi, không không cần phải quá liền thôié. ví dụ như hôm nào mà con quá là bận thì con có thể gọi là.
+[1931.32s - 1933.30s] SPEAKER_00: Sáng mình tập năm phút này.
+[1933.57s - 1939.53s] SPEAKER_00: Trưa mình về nhà mình ngủ thì mình có thể tập thêm phút nữa rồi tối mình trước khi đi ngủ thì mình có thể súc miệng bằng mười phút.
+[1939.91s - 1940.81s] SPEAKER_00: Tập thựcê.
+[1941.15s - 1946.21s] SPEAKER_00: Thì như thế đấy là một cái thứ mà con có thể mình có thể chưa bớt thời gian để mình có thể học và đây là một phương pháp học.
+[1946.66s - 1948.20s] SPEAKER_00: Có có thể đấy là hoàn toàn miễn phí.
+[1948.42s - 1950.66s] SPEAKER_00: Con chỉ cần có một cái tai nghe, một cái điện thoại.
+[1951.20s - 1954.51s] SPEAKER_00: VàỜ và mình có thể ghi âm lại cái phần mà mình nói.
+[1954.71s - 1955.69s] SPEAKER_00: Để so sánh xem là.
+[1956.38s - 1959.81s] SPEAKER_00: Cái phần mà người ta nói và cái phần của mình nói nghe nó có giống nhau hay không?
+[1960.20s - 1964.52s] SPEAKER_00: đó, con sẽ cần phải xem ra là mình giống nhau như thế nào, mà cho nên là mình sẽ cần phải ghi âm lại.
+[1965.02s - 1968.84s] SPEAKER_00: Đó là lý do tại sao mà thầy cần còn có ít nhất là hai cái điện thoại hoặc và có một cái điện thoại một.
+[1969.33s - 1970.59s] SPEAKER_00: Một cái l làm xop đấy.
+[1971.03s - 1971.84s] SPEAKER_00: Đ được rồi.
+[1972.35s - 1981.61s] SPEAKER_00: ương pháp này thì đã được chứng minh rất là nhiều rồi, và con có thể hoàn toàn lên trên YouTube để mình xem về cái phương pháp này nhá cũng có rất là nhiều những cái người chia sẻ về cái phương pháp này rồi.
+[1982.13s - 1992.97s] SPEAKER_00: Và thầy mong là con có thể áp dụng nó cách chăm chỉ, thầy chỉ cần con mỗi ngày tập cho tài khoảng từ mười lăm trở thành mươi phuốc mà thôi, và thấy tin là sau một tháng thôi thì cái khả năng nói con nó sẽ tiến bộ rất là nhiều.
+[1993.74s - 1996.66s] SPEAKER_00: Chúng ta cùng đến với cả phần từ vựng với cả phần ngữ phápé.
+[1997.56s - 2003.13s] SPEAKER_00: Hai phần này thì theo khuê thìuê cảm nhận như thế nào về cái lượng từ vựng và lượng c cầu tr chung Ph pháp mình đã sử dụng trong vỏ ngày hôm nay?
+[2003.94s - 2006.13s] SPEAKER_00: Theo con thì nó có nhiều hay không hay là nó hẫích được với con.
+[2008.48s - 2009.47s] SPEAKER_01: Mất vừa phải.
+[2010.15s - 2011.09s] SPEAKER_01: Không có gì không ít.
+[2011.58s - 2012.63s] SPEAKER_00: Oê.
+[2012.95s - 2017.94s] SPEAKER_00: Ở đây thìầy thấy làứ nhất là con đã có thể có đủ khả năng để trả lời những cái câu hỏi của thầy.
+[2018.43s - 2026.14s] SPEAKER_00: Ờ chia sẻ với con là thầy đã thầy đã làm việc với rất là nhiều bạn, kể cả các bạn từ rất là bé, từ lớp ba cho đến một bạn học đại học.
+[2026.55s - 2028.46s] SPEAKER_00: Cho đấy những cái bạn học đại học nữa và
+[2028.69s - 2031.63s] SPEAKER_00: Như câu hỏi vừa rồi là những câu hỏi mà thầy hay hỏi?
+[2032.08s - 2037.15s] SPEAKER_00: bởi vì có thể thấy là những câu hỏi này dành cho những bạn học sinh đúng không nhỉ và thầy thì ít làm việc với cả những người lớn.
+[2037.67s - 2038.41s] SPEAKER_00: ChỜ, cho nên là
+[2038.83s - 2049.65s] SPEAKER_00: Ờ thầy có thể đánh giá được, và thầy có thể so sánh được khá là nhiều bạn với nhau, và thầy có thể thấy là cái khả năng v và chất lượng từ vựng của con ở thời điểm hiện tại đang khá là nhiều so bạn nấp phải là một phần mà thầy thấy khá là hài lòngòng.
+[2050.31s - 2050.93s] SPEAKER_00: Ờ.
+[2051.15s - 2057.13s] SPEAKER_00: Và nó còn nhiều hơn rất là nhiều đối với những cái bạn, những anh chị cấp ba mà thấy đã từng làm việc nữa. đấy là một cái mà thấy thấy thao rất thích.
+[2057.62s - 2061.97s] SPEAKER_00: Và cái cách trả lời của con thì thầy cũng thầy có được những cái sự cố gắng cho cái phần trả lời của mình.
+[2062.70s - 2066.56s] SPEAKER_00: Ờ cái điểm mà thể đấy là có một chút mà chúng ta cũng thật phải cải thiện đấy chính là.
+[2066.86s - 2069.73s] SPEAKER_00: Đôi chỗ là mình đang hơi bị lặt về mặt vừa vực đúng nhờ.
+[2070.22s - 2076.72s] SPEAKER_00: Có thể đấy là trong cái phần ngày hôm nay thì con có con đã bị lặ một vài từ vựng ví dụ như từi đúng không?
+[2077.16s - 2078.81s] SPEAKER_00: H hay là có thể là mình?
+[2079.20s - 2083.37s] SPEAKER_00: Mình hay sử dụng cái từ pinfu đúng không nhỉ là một cái từ mà con có thể thấy là.
+[2083.98s - 2086.74s] SPEAKER_00: Là một cái từ mà đa phần là chúng ta cũng dùng khá là nhiều, đúng không?
+[2087.37s - 2087.92s] SPEAKER_00: Vậy thì
+[2088.33s - 2090.19s] SPEAKER_00: Có những cái từ nào để chúng ta?
+[2090.51s - 2099.21s] SPEAKER_00: Có thể thay thế những cái từ vựng này ở đây phải chia sẻ với con một vài từ vng nhá. Tất nhiên là cái vốn từ vựng của thầy liên quan đến cái những cái từ vựng này thầy cũng không sử dụng quá được nhiều, bởi vì
+[2099.40s - 2100.58s] SPEAKER_00: Thú thật là thầy cô không.
+[2100.99s - 2106.23s] SPEAKER_00: Thầy cũng không khen người khác quá là nhiều , cho nên làầy cũng không tìm hiểu quá là nhiều những cái từ v này.
+[2106.67s - 2109.74s] SPEAKER_00: Ở đây thầy nghĩ là có một vài từ, con có thể biết chúng từ.
+[2110.28s - 2111.04s] SPEAKER_00: Ở đó bộ.
+[2111.30s - 2113.05s] SPEAKER_00: Ở, chắc là từ này con biết rồi đúng không?
+[2113.46s - 2115.24s] SPEAKER_00: Cái từ này nó sẽ bằng về thựciểu.
+[2116.70s - 2119.16s] SPEAKER_00: Nó sẽ ở một cái level cao hơn rất là nhiều.
+[2119.35s - 2128.66s] SPEAKER_00: ấy nó sẽ ở một cái leovl cao rất là nhiều, hay là nếu như mà muốn nói về một người con trai mà rất là đẹp trai đi thì không biết là quê có biết từ hượng nào để mô tả không nhỉ.
+[2129.69s - 2130.42s] SPEAKER_00: Ừ.
+[2133.93s - 2136.57s] SPEAKER_00: Ngấy rất đẹp trai, cái cái tử đẹp trai là từ nàoáo nhở không còn nhớ.
+[2137.55s - 2138.28s] SPEAKER_01: Anh xong.
+[2138.48s - 2140.20s] SPEAKER_00: Đúng rồi, rồik từ hè xong đó.
+[2140.62s - 2143.53s] SPEAKER_00: Ngoài từ em xem ra thì còn một vài từ nữa đó chính là từ.
+[2144.03s - 2144.57s] SPEAKER_01: R.
+[2146.70s - 2147.58s] SPEAKER_01: Cáchíầy.
+[2148.56s - 2150.73s] SPEAKER_00: K là chính là từ c cứ lỗ kỉnhng.
+[2151.58s - 2152.30s] SPEAKER_00: Lu hình.
+[2153.43s - 2156.40s] SPEAKER_00: uyệnôinh ưa nhìn đó, ưa nhìn được đấy.
+[2156.69s - 2158.88s] SPEAKER_00: Hay là, nếu như mà mô tả với một người con gái đi.
+[2159.31s - 2167.34s] SPEAKER_00: Chúng ta có những cái từ như là từ g từ này có thể lớn hơn rất là nhiều so với từ bia của có.
+[2167.79s - 2169.67s] SPEAKER_00: Đó chắc là từ này con sẽ không được nhìn thấy đâu.
+[2169.99s - 2174.24s] SPEAKER_00: Hay là từ, nhưng mà từ coi chu này sẽ được miêu tả một cái con nếu như mà con mô tả.
+[2174.54s - 2175.98s] SPEAKER_00: Mộtọi người con gái rất là bia đi phủ.
+[2176.99s - 2179.39s] SPEAKER_00: Nhưng mà con mô tả người kia rất là go.
+[2180.11s - 2186.02s] SPEAKER_00: Thì cái người ngo chuượt đấy có thể gấp đến mười lần so với những người bị được vùi đó ờê đó, tức là cái.
+[2186.25s - 2188.38s] SPEAKER_00: Cấp độ của nó là lớn hơn rất là nhiều cái.
+[2188.50s - 2191.74s] SPEAKER_00: Hay là một từ nữaầy nghĩ là còn cũng có thể thấy rồi, đó chính là từri.
+[2191.98s - 2193.87s] SPEAKER_00: tức là từ ngày con nhìn thấy rồi, đúng không ạ?
+[2195.50s - 2199.64s] SPEAKER_00: Đây là một vài cái thựcự mà muốn cho con để mô tả cái sự xinh đẹp của một người nào đấy.
+[2199.99s - 2202.03s] SPEAKER_00: Trong cái buổi ngày hôm nayờ đấy.
+[2202.67s - 2207.70s] SPEAKER_00: Còn nếu như muốn mô tả về một cái quang cảnh đẹp thì chúng ta sẽ sử dụng từ nào.
+[2208.34s - 2209.91s] SPEAKER_00: Theo con tỉnhựcan nên sử dụng từ án.
+[2214.49s - 2221.39s] SPEAKER_00: Đúng rồi, đúng rồi, mưa tảng ngọn núi này đẹp thế, hay là cái gì? Ô cái viêm biển này đẹp thế thì chúng ta sẽ sử nào nh.
+[2221.81s - 2223.23s] SPEAKER_00: Cóẻờ bia phui đúng không nhỉ?
+[2223.65s - 2224.17s] SPEAKER_00: .
+[2224.92s - 2231.95s] SPEAKER_00: thế thì hai từ viênù giải thì phải lại thêm cho con một gái tửục nữa, mà thấy tin rằng con cũng sẽ không được học ở đây.
+[2232.27s - 2234.67s] SPEAKER_00: Nhưng mà có xin được họcảo chính Ae đây chính là từ.
+[2235.33s - 2235.90s] SPEAKER_00: R.
+[2236.17s - 2239.02s] SPEAKER_00: Thích hình từ pre thích hình.
+[2239.88s - 2241.91s] SPEAKER_00: V một từ vẫn nữaân vọng ngày hôm nay đấy.
+[2242.31s - 2244.46s] SPEAKER_00: TỜ từ bờ rét có nghĩa là hơi thở.
+[2245.84s - 2248.02s] SPEAKER_00: Vàử thách thì từ thách có là lấy.
+[2248.56s - 2250.55s] SPEAKER_00: Tức là sao? tức là đây là vẻ đẹp lấy đi hơi thở.
+[2251.34s - 2253.70s] SPEAKER_00: Chức là sau này, tức là khi mà thầy nhìn cái cái.
+[2254.09s - 2256.54s] SPEAKER_00: Cái quang cảnh đó khi mà thể nhìn thấy cái Vill đó.
+[2256.91s - 2263.76s] SPEAKER_00: Thì thấy như kiểu thấy chết lặng giữa cái quầ đó, cái tức là nó đẹp đến mức mình lặng người luôn đấy đấy đấy.
+[2264.25s - 2266.24s] SPEAKER_00: Có thấy không có rất là nhiều từự nó.
+[2266.46s - 2271.86s] SPEAKER_00: Nghe thì có vẻ chả giống từ đẹp đẽ lắm, nhưng mà nó lại cực kỳ là mô tả rất là h hay h ho, đúng không nhờ đấy.
+[2273.33s - 2280.27s] SPEAKER_00: Đấy là một vài từ vựng mà thầy trênẻ con cho cái bọn ngày hôm nay và th hy vọng sao b bỏ này thì mình sẽ có thêm rất là nhiều từ đứa để mô tả.
+[2280.96s - 2282.83s] SPEAKER_00: Từng loại điểm một cái.
+[2283.17s - 2287.64s] SPEAKER_00: am đẹp thì chúng ta có từ h hợp nào này, nữ đẹp thì chúng ta có từ hự nào hay là?
+[2287.71s - 2289.77s] SPEAKER_00: Cảnh đẹp thì chúng ta có tư tưởng nào đấy?
+[2290.34s - 2294.90s] SPEAKER_00: Sao được rồiổi học ngày hôm nay của chúng ta cũng đã kết thúc ở đây rồi, và th thấy rất là mong muốn là con.
+[2295.13s - 2299.64s] SPEAKER_00: Thầy rất là hy vọng sau này thì con sẽ có thể có được một  cái.
+[2299.89s - 2304.95s] SPEAKER_00: Cái nhìn đa chiều hơn về cái mô tiếng Anh này và sẽ có cho mình những cái nhìn yêu thích về với mô tiếng Anh này hơn nữa,.
+[2305.29s - 2307.32s] SPEAKER_00: Sao Đ được ba anhứ ba.
+[2307.43s - 2308.08s] SPEAKER_01: T.
+[2308.67s - 2309.24s] SPEAKER_00: Đực.
