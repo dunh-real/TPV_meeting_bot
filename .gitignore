@@ -5,3 +5,5 @@ data/
 meeting_bot
 
 bin
+
+env
