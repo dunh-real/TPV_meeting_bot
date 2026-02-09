@@ -1,7 +1,11 @@
 # python==3.12.10
-nemo-toolkit==2.6.1 # uv pip install -U nemo_toolkit['asr']
-torch==2.8.0+cu128
-torchaudio==2.8.0+cu128
+# uv pip install -U nemo_toolkit['asr']
+# nemo-toolkit==2.6.1 
+# pip install torch==2.8.0 torchvision==0.23.0 torchaudio==2.8.0--index-url https://download.pytorch.org/whl/cu128
+# torch==2.8.0+cu128
+# torchaudio==2.8.0+cu128
+# torchvision==0.23.0+cu128
 pyannote-audio==4.0.3
 huggingface-hub==0.30.2
 langchain_google_genai==4.2.0
+dotenv==0.9.9
