@@ -7,3 +7,5 @@ meeting_bot
 bin
 
 env
+
+private_keys.txt

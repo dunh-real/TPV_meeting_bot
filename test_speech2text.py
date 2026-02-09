@@ -22,7 +22,7 @@ warnings.filterwarnings("ignore")
 
 # Configuration
 AUDIO_FILE = "./data/raw/1.wav"
-HF_TOKEN = "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"
+HF_TOKEN = "" # replace with your hugging face token here
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 def format_time(seconds):
