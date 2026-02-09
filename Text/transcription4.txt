@@ -1,0 +1,37 @@
+[1.20s] SPEAKER_01: Bài học mười lăm. Cho chúng tôi một phòng đơn. Bài bẩy. Ao Khách sạn bình xin nghe ạ.
+
+[12.10s] SPEAKER_00: Xin chào. Tôi là mình. Tôi muốn đặt phòng.
+
+[17.29s] SPEAKER_01: Anh muốn phòng đơn. Hay phòng đôi? Phòng đơnn. Anh sẽ ở trong bao lâu ạ?
+
+[25.58s] SPEAKER_00: Bốn ngày. Từ hai mươi đến hai ba tháng này. Chị ơi, giá phòng thế nào? Anh ơi! Phòng đơn là năm trăm nghìn đồng một ngày. Giá trên đã bao gồm ăn sáng chưa chị. Có rồi, anh ạ? Cho tôi hỏi điện thoại trong phòng có thể gọi đi quốc tế không? Được anh ạ. Tốt rồi. Cám ơn chị. Nhớ giữ phòng cho tôi nhé.
+
+[54.77s] SPEAKER_01: Chắc chắn rồi. Cảm ơn anh. Hẹn gặp lại. Bài tám. Chào anh. Cho anh xem menu nhé. Đây ạ. Anh đi một mình. Hay chờ bạn nữa?
+
+[71.18s] SPEAKER_00: Anh có hai người nữa sắp đến em nhé.
+
+[75.41s] SPEAKER_01: Anh xem đi ạ. Cần gọi gì? Anh gọi em nhé.
+
+[79.70s] SPEAKER_00: Ừ, anh biết rồi. Em ơi, cho anh gọi món. Dạ vâng. Cho anh một sa lát dưa chuột. Một đĩa nem dán. Mười phỏ cuốn. Và một đĩa thịt gà luộc nhé.
+
+[95.27s] SPEAKER_01: Các anh chị. Có dùng đồ uống gì không ạ?
+
+[99.44s] SPEAKER_00: Cho anh ba chai bia Hà Nội. Cho chị ấy một nước cam nhé.
+
+[105.09s] SPEAKER_01: Em biết rồi. Anh chị chờ một lát ạ. Xin lỗi anh chị. Anh chị thấy đồ ăn của nhà hàng em hôm nay thế nào ạ?
+
+[116.64s] SPEAKER_00: Ngon em ạ. Nhưng salad hơi chua.
+
+[120.25s] SPEAKER_01: Dạ vâng. Nhà hàng sẽ cố gắng làm ngon hơn lần sau ạ. Em cám ơn.
+
+[127.02s] SPEAKER_00: Cho anh thanh toán nhé.
+
+[129.58s] SPEAKER_01: Anh thanh toán bằng tiền mặt. Hay thẻ vi da ạ?
+
+[133.88s] SPEAKER_00: Tiền mặt em ạ.
+
+[136.72s] SPEAKER_01: Chờ em chút. Em sẽ mang hóa đơn cho anh chị ạ. Không sao. Của anh chị. Hết tất cả ba trăm năm mươi lăm nghìn đồng ạ. Nhưng hôm nay ngày mùng tám tháng ba. Nên nhà hàng em giảm giá mười phần trăm. Chỉ còn ba trăm hai mươi nghìn đồng. Anh gửi nhé.
+
+[159.03s] SPEAKER_00: Gởi nhé.
+
+[161.19s] SPEAKER_01: Lần sau, các anh chị lại đến nhé.
