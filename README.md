@@ -156,4 +156,4 @@ Làm theo hướng dẫn để nhập file transcript. Các lệnh trong chat:
 - `llm_service.py` khởi tạo model LLM.
 - `llm_extracter.py` chat với transcript bằng Gemini.
 
-Cài đặt đầy đủ theo hướng dẫn rồi tạo 2 terminal: terminal 1 chạy file `extract_text.py` để lấy file transcription.txt, terminal 2 chạy  `llm_extracter.py` (nhập đường dẫn từ file transcript.txt) để nạp dữ liệu cho LLM để hoàn thành pipeline end-to-end.
+Cài đặt đầy đủ theo hướng dẫn rồi tạo 2 terminal: terminal 1 chạy file `extract_text.py` để lấy file transcription.txt, terminal 2 chạy  `llm_extracter.py` (nhập đường dẫn từ file transcription.txt) để nạp dữ liệu cho LLM để hoàn thành pipeline end-to-end.
