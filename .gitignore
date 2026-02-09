@@ -4,4 +4,19 @@ data/
 
 meeting_bot
 
-bin
+bin# Environment variables
+.env
+
+# Local paths / models
+models/
+model_detect/
+ffmpeg-*/
+
+# Output files
+Text/*.txt
+outputs/
+out_*.txt
+
+# Cache
+__pycache__/
+*.pyc
