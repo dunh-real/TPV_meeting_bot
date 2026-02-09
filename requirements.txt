@@ -1,8 +1,11 @@
-nemo-toolkit==2.6.1
+# python==3.12.10
+nemo-toolkit==2.6.1 # uv pip install -U nemo_toolkit['asr']
 torch==2.8.0+cu128
 torchaudio==2.8.0+cu128
 pyannote-audio==4.0.3
 huggingface-hub==0.30.2
+langchain_google_genai==4.2.0
+dotenv==0.9.9
 
 
 # Dưới đây là danh sách 3 model bắt buộc bạn cần phải vào bấm "Agree and access repository" để hệ thống Pyannote 3.1 hoạt động được (bạn cần đăng nhập cùng một tài khoản Hugging Face mà bạn đã lấy Token):
