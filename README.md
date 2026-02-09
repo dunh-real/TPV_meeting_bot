@@ -35,16 +35,17 @@ Dự án này chuyển audio cuộc họp (MP3) thành transcript có phân đo�
 1. Tạo môi trường ảo và cài dependencies
 
 ```powershell
-python -m venv .venv
+pip install uv
+uv venv --python 3.12.10
 .venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+Read requirements.txt to install package
 ```
 
 Ghi chú:
 - `torch` và `torchaudio` đang dùng phiên bản CUDA `cu128`. Nếu máy không có CUDA phù hợp, hãy cài bản CUDA tương ứng. Ví dụ cài bản CUDA 12.8:
 
 ```powershell
-pip install torch==2.8.0+cu128 torchaudio==2.8.0+cu128 --index-url https://download.pytorch.org/whl/cu128
+uv pip install torch==2.8.0 torchvision==0.23.0 torchaudio==2.8.0--index-url https://download.pytorch.org/whl/cu128
 ```
 
 2. Chuẩn bị `.env`
@@ -75,6 +76,10 @@ python download_parakeet.py
 Nếu bạn đặt project ở đường dẫn khác, hãy sửa `local_dir` trong `download_parakeet.py` hoặc sửa `PARAKET_MODEL_PATH` trong `.env` cho đúng.
 
 4. Tải model diarization
+
+Lần đầu tiên khi chạy hãy vào Huggingface tạo `access token` với quyền đọc `Read`.
+
+Sau đó chạy lệnh huggingface-cli, nhập `access token` và chọn `Y`.
 
 `extract_text.py` tự gọi `ensure_diarization_model()` và sẽ tải model nếu chưa có. Để tải trước:
 
