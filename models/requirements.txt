@@ -1,0 +1,1 @@
+# run download_parakeet.py to save the model nemo to models
